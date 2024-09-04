@@ -44,7 +44,7 @@
     "href": "index.html#acknolwedgements",
     "title": "The Heinsberg Lab",
     "section": "Acknolwedgements",
-    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. The content for this guide was inspired by the lab resources of Dr. Charleston Chiang, the vision of Dr. Jenna Carlson , and Osho Mike Travisano, The Art of Monday Morning (an incredible teacher who has imparted lessons I strive to carry into my work).",
+    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
     "crumbs": [
       "Lab information"
     ]
@@ -110,11 +110,11 @@
     ]
   },
   {
-    "objectID": "intro.html#disclosures",
-    "href": "intro.html#disclosures",
+    "objectID": "intro.html#acknolwedgements",
+    "href": "intro.html#acknolwedgements",
     "title": "Lab expectations",
-    "section": "Disclosures",
-    "text": "Disclosures\nChatGPT 40 was used to edit this laboratory code of conduct.",
+    "section": "Acknolwedgements",
+    "text": "Acknolwedgements\nThe content for this guide was inspired by the lab resources of Dr. Charleston Chiang, the vision of Dr. Jenna Carlson, and teachings of Osho Mike Travisano, The Art of Monday Morning. ChatGPT 40 was used to edit the content of this laboratory code of conduct for clarity.",
     "crumbs": [
       "Lab expectations"
     ]

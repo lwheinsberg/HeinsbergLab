@@ -33,4 +33,4 @@ Copyright 2024, Lacey Heinsberg. All Rights Reserved. License: [GPL-2](https://w
 
 ## Acknolwedgements 
 
-This Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. The content for this guide was inspired by the lab resources of [Dr. Charleston Chiang](https://chianglab.usc.edu/resources.html), the vision of [Dr. Jenna Carlson](https://www.publichealth.pitt.edu/directory/jenna-carlson) , and [Osho Mike Travisano, The Art of Monday Morning](https://www.theartofmondaymorning.com/) (an incredible teacher who has imparted lessons I strive to carry into my work).
+This Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. 

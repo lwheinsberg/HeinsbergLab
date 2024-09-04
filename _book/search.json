@@ -44,9 +44,479 @@
     "href": "index.html#acknolwedgements",
     "title": "The Heinsberg Lab",
     "section": "Acknolwedgements",
-    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. The content for this guide was inspired by the lab resources of Dr. Charleston Chiang, the vision of Dr. Jenna Carlson , and Osho Mike Travisano, The Art of Monday Morning (an incredible teacher who has imparted lessons I strive to carry into my work).",
+    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
     "crumbs": [
       "Lab information"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Lab expectations",
+    "section": "",
+    "text": "Well-being and work-life balance",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#well-being-and-work-life-balance",
+    "href": "intro.html#well-being-and-work-life-balance",
+    "title": "Lab expectations",
+    "section": "",
+    "text": "Well-being first\nAcademic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.\nFor example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it’s mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son’s laugh, or the feel of my cat’s fur. These moments help me remember that, even when the grant isn’t funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the “bad” things that happen (that sometimes turn out to be good things) don’t change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.\nThat said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.\n\n\nFlexible hours\nOne of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you’re self-motivated and doing your best work, your schedule is your own. However, I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.\n\n\nMothers and parents in science\nI understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.\n\n\nVacations\nI encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. Plan early, inform me when you’ll be away, and ensure your time off doesn’t clash with required coursework. For detailed policies, refer to:\n\nStaff vacation policy\n\nPostdoc vacation policy",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#inclusivity-and-lab-culture",
+    "href": "intro.html#inclusivity-and-lab-culture",
+    "title": "Lab expectations",
+    "section": "Inclusivity and lab culture",
+    "text": "Inclusivity and lab culture\n\nIdentity and Authenticity\nI encourage you to share your identity and be authentic. While we maintain respect and professionalism, I acknowledge that academia has centuries of norms that can make people feel excluded. This is a safe space to be yourself.\n\n\nHarassment-free environment\nOur lab is inclusive and welcoming. We do not tolerate discrimination based on race, citizenship, religion, political affiliations, gender identity, sexual orientation, disability, pregnancy, appearance, or any other attributes. Microaggressions and hostility have no place here. We all need to be mindful of (and do the work to reduce) our implicit biases. We are united by our passion for science.\n\nCampus policy\n\nCampus and community resources\n\n\n\nValues\nI encourage everyone to assess their values and evaluate whether they are living those values. Some of our lab values include:\n\nObjectivity\nAuthenticity\nCommunication\nStewardship\nTransparency / Trust\nGenerosity",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#communicaton-expectations",
+    "href": "intro.html#communicaton-expectations",
+    "title": "Lab expectations",
+    "section": "Communicaton expectations",
+    "text": "Communicaton expectations\n\nE-mails\nDue to my own working style and work-life balance, I may send emails outside of what is considered “regular” working hours. I do not expect a response from you outside of your typical working schedule. Though there may be occasional exceptions if we are working close to a deadline. In those instances, I will let you know ahead of time the possibility of breaking this expectation.\n\n\nGeneral tips\nClear and respectful communication is key. When you need something, be clear about what, when, and why. Here are some templates to help:\n\nMaking a request: I request that you do X by time Y.\nResponding to a request: (A) Yes, (B) No, or (C) a negotiation.\nMaking a complaint: You agreed to do X by time Y, and you didn’t do it. Here’s how it impacted me. I request that you do X_2 by time Y_2.\nMaking an apology: I agreed to do X by time Y, and I did not do it. Here’s my understanding of how it impacted you. What can I do to make it up?\nGiving feedback: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you…\n\n\n\nCanceling or rescheduling meetings\nIf you need to reschedule or cancel a meeting, please give 24 hours notice. While this isn’t always feasible, do your best to communicate as promptly as possible.",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#research-practices-and-professional-development",
+    "href": "intro.html#research-practices-and-professional-development",
+    "title": "Lab expectations",
+    "section": "Research practices and professional development",
+    "text": "Research practices and professional development\n\nParticipation\nWhile there are no current plans for regular group lab meetings, we may add these in the future. For any meetings that we do have, active participation is expected.\n\n\nReproducibility\nSharing is essential to our collective growth. Whether it’s writing, methods, or data, we document everything clearly to support each other as researchers. Where relevant, please use LabArchives (Pitt’s electronic lab notebook) to keep detailed records of your work—what worked, what didn’t, and why—so others can build on your efforts. This practice not only upholds scientific rigor but also fosters collaboration and learning within our lab. We aim to share our work openly, from preprints to online repositories, ensuring that our contributions are accessible to the broader community. By lifting each other up, we strengthen our research together.\n\n\nGenerative artificial intelligence (AI)\nI use ChatGPT and other generative AI tools daily, and I’m OK with you using it too. However, I have a few expectations about how it should be used:\n\nBecome AI literate: Take training courses, particularly on ethical use. Develop your own code of conduct outlining when and how you’ll use AI tools.\nDon’t become overly reliant: Use it sparingly. Don’t let it make you lazy—relying too much on AI can be a slippery slope.\nGenerate structure, not content: Feel free to use AI to help with organizing ideas or enhancing communication, but avoid relying on it to draft full content.\nRespect privacy: Never input other people’s writing or personal information into AI tools.\nMaintain objectivity: Remember, you are the human in the loop. Generative AI is often wrong—don’t trust it blindly. Always investigate and fact-check.\nDisclose its use: Be transparent about when you’ve used AI—share what tools you used, for what purpose, and when.\n\n\n\nSelf-enrichment\nStay immersed in the literature. Good ideas often come from reading widely. Attend relevant journal clubs, subscribe to major journal feeds, and set a goal to read at least one interesting paper relevant to your research each week.\n\n\nFellowships and travel grants\nEveryone should look for funding opportunities. PhD students should aim for an F31, and postdocs for a K award. Any BSN students interested in research or research funding – let’s work together to find something for you to apply for! These awards can help you attend conferences, network, and broaden your expertise. I’m here to help with advice on applications.\n\n\nPublish and present\nEveryone is encouraged to publish their findings and present at conferences. Sharing our work with the broader scientific community is crucial for advancing knowledge and building your professional reputation. Whether it’s submitting papers to peer-reviewed journals or giving talks at conferences, these activities are vital components of your academic career. We will support each other in preparing manuscripts, practicing presentations, and navigating the submission process.",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#expectations-of-the-pi",
+    "href": "intro.html#expectations-of-the-pi",
+    "title": "Lab expectations",
+    "section": "Expectations of the PI",
+    "text": "Expectations of the PI\nIn addition to the expectations above that apply to every lab member, students and postdocs can anticipate the following from me:\n\nRegular meetings: This will look different for each lab member depending on your role in the group. However, in general, you can expect weekly, bi-weekly, or monthly one-on-one or group meetings to discuss research progress, work assignments, and plan next steps. Additional meetings can be scheduled via email as needed.\nGrant and fellowship support: I will assist with brainstorming, writing, and improving postdoctoral or graduate fellowship applications, travel grants, and other grant applications that are related to work being conducted in this lab.\nManuscript and abstract contributions: I will read, comment, edit, and contribute significantly to any abstracts and manuscripts resulting from your research in this lab.\nPresentation practice: We will create opportunities for you to practice talks for conferences or other venues, potentially multiple times. I will also provide feedback on the structure and content of your slides before the practice sessions.\nCareer goals and training plans: We will have discussions about your future career goals and any issues you may face, tailoring your training plans accordingly. These conversations will occur in a safe and confidential space if desired.",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#acknolwedgements",
+    "href": "intro.html#acknolwedgements",
+    "title": "Lab expectations",
+    "section": "Acknolwedgements",
+    "text": "Acknolwedgements\nThe content for this guide was inspired by the lab resources of Dr. Charleston Chiang, the vision of Dr. Jenna Carlson, and teachings of Osho Mike Travisano, The Art of Monday Morning. ChatGPT 40 was used to edit the content of this laboratory code of conduct for clarity.",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#conclusion",
+    "href": "intro.html#conclusion",
+    "title": "Lab expectations",
+    "section": "Conclusion",
+    "text": "Conclusion\nWelcome again, and let’s make the Heinsberg Lab a fantastic place to work and grow! If you have any questions or comments, please feel free to contact me!",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "hope.html",
+    "href": "hope.html",
+    "title": "The HOPE Study",
+    "section": "",
+    "text": "Overview\nThe HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study will focus on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#planned-genomic-data",
+    "href": "hope.html#planned-genomic-data",
+    "title": "The HOPE Study",
+    "section": "Planned genomic data",
+    "text": "Planned genomic data\n\nCREBRF rs373863828\nGenome-wide DNA methylation data\nGenome-wide RNA seq data\nMicrobiome data\nPFAS data",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#eligibility",
+    "href": "hope.html#eligibility",
+    "title": "The HOPE Study",
+    "section": "Eligibility",
+    "text": "Eligibility\nThe study will include mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#study-dates",
+    "href": "hope.html#study-dates",
+    "title": "The HOPE Study",
+    "section": "Study Dates",
+    "text": "Study Dates\nThis study is currently in the planning phase.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#ethics",
+    "href": "hope.html#ethics",
+    "title": "The HOPE Study",
+    "section": "Ethics",
+    "text": "Ethics\nEthical approvals are currently under review as part of the study planning.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#assessments",
+    "href": "hope.html#assessments",
+    "title": "The HOPE Study",
+    "section": "Assessments",
+    "text": "Assessments\nTrained, bilingual Samoan research assistants will conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection will include sleep patterns, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood will also be collected.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#team",
+    "href": "hope.html#team",
+    "title": "The HOPE Study",
+    "section": "Team",
+    "text": "Team\nLacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna Carlson, Yvette Conley, and Erin Kershaw (Co-Is); Miracle Loia (Project Coordinator)",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#funding",
+    "href": "hope.html#funding",
+    "title": "The HOPE Study",
+    "section": "Funding",
+    "text": "Funding\n\nR00HD107030\nPitt Nursing",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#related-publications",
+    "href": "hope.html#related-publications",
+    "title": "The HOPE Study",
+    "section": "Related publications",
+    "text": "Related publications\nPending",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "grow.html",
+    "href": "grow.html",
+    "title": "The Grow Study",
+    "section": "",
+    "text": "Overview\nThe GROW Study is a planned longitudinal, observational study of pregnant women from American Samoa, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy.",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#planned-genomic-data",
+    "href": "grow.html#planned-genomic-data",
+    "title": "The Grow Study",
+    "section": "Planned genomic data",
+    "text": "Planned genomic data\n\nCREBRF rs373863828",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#eligibility",
+    "href": "grow.html#eligibility",
+    "title": "The Grow Study",
+    "section": "Eligibility",
+    "text": "Eligibility\nThe study will include mothers who are over 18 years old, &lt;14 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 18 months post-birth.",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#study-dates",
+    "href": "grow.html#study-dates",
+    "title": "The Grow Study",
+    "section": "Study Dates",
+    "text": "Study Dates\nThis study is currently in the planning phase.",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#ethics",
+    "href": "grow.html#ethics",
+    "title": "The Grow Study",
+    "section": "Ethics",
+    "text": "Ethics\nEthical approvals are currently under review as part of the study planning.",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#assessments",
+    "href": "grow.html#assessments",
+    "title": "The Grow Study",
+    "section": "Assessments",
+    "text": "Assessments\nTrained, bilingual Samoan research assistants will conduct assessments at various time points: first second and third trimesters of pregnancy, 6 weeks, 6 months, 12 months, and 18 months pospartum. , immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection will include sleep patterns, nutrition, behavior, environment, social determinants of health, physical growth measurements, and frequently sampled oral glucose tolerance testing. Biospecimens such as saliva, blood, and serum will be banked.",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#team",
+    "href": "grow.html#team",
+    "title": "The Grow Study",
+    "section": "Team",
+    "text": "Team\nNicola Hawley, Angie Bengtson, and Erin Kershaw (MPIs); Bethel Muasau-Howard, Lacey Heinsberg, Jenna Carlson, Clare Flannery, Steve McGarvey (Co-Is)",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#funding",
+    "href": "grow.html#funding",
+    "title": "The Grow Study",
+    "section": "Funding",
+    "text": "Funding\nPending",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "grow.html#related-publications",
+    "href": "grow.html#related-publications",
+    "title": "The Grow Study",
+    "section": "Related publications",
+    "text": "Related publications\nPending",
+    "crumbs": [
+      "The Grow Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html",
+    "href": "foafoaga.html",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "",
+    "text": "Overview\nThis longitudinal, observational study of mother-infant dyads aimed to identify factors in pregnancy and the early postpartum period that contribute to non-communicable diseases in Samoa.",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#genomic-data",
+    "href": "foafoaga.html#genomic-data",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Genomic data",
+    "text": "Genomic data\n\nCREBRF rs373863828\nUntargeted metabolomic data\nPFAS data",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#eligibility",
+    "href": "foafoaga.html#eligibility",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Eligibility",
+    "text": "Eligibility\nEligible mothers were over 18 years old, between 35-41 weeks gestation, with uncomplicated singleton pregnancies. They planned to give birth at TTM Hospital and lived within 30 minutes of Apia for ease of follow-up.",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#study-dates",
+    "href": "foafoaga.html#study-dates",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Study Dates",
+    "text": "Study Dates\n2017-2019",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#ethics",
+    "href": "foafoaga.html#ethics",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Ethics",
+    "text": "Ethics\nInformed consent was obtained from all mothers. The study was approved by the Institutional Review Boards at Yale University, the University of Pittsburgh, and the Health Research Committee of Samoa.",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#assessments",
+    "href": "foafoaga.html#assessments",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Assessments",
+    "text": "Assessments\nBilingual Samoan research assistants conducted assessments of the mother-infant dyads at 1 week, 2 months, and 4 months post-birth. Some infants were reassessed at 24 months post-birth. Data on behavior, environment, physical measurements, and biospecimens (saliva, dried blood spots) were collected for later analysis.",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#team",
+    "href": "foafoaga.html#team",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Team",
+    "text": "Team\nNicola Hawley and Kendall Arslanian (MPI); Sakura Oyama (Ancillary Study PI); Lacey Heinsberg (Ancillary Study PI); Ulai T. Fidow, Rachel L. Duckham, Folla Unasa-Apelu, Christina Soti-Ulberg, Theresa Atanoa, Madison Rodman, Elise Claffey, Alysa Pomer (Co-Is)",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#funding",
+    "href": "foafoaga.html#funding",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Funding",
+    "text": "Funding\n\nK99HD107030\nSigma Nursing Honors Society\nHeilbrunn Family Center for Nursing Research",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "foafoaga.html#related-publications",
+    "href": "foafoaga.html#related-publications",
+    "title": "The Foafoaga o le Ola Study",
+    "section": "Related publications",
+    "text": "Related publications\n\nArslanian KJ, Fidow UT, Atanoa T, Naseri T, Duckham RL, McGarvey ST, Choy C, Hawley NL. Effect of maternal nutrient intake during 31-37 weeks gestation on offspring body composition in Samoa. Ann Hum Biol. 2020 Dec;47(7-8):587-596. doi: 10.1080/03014460.2020.1820078. Epub 2020 Oct 18. PMID: 32892647; PMCID: PMC7900936.\nArslanian KJ, Fidow UT, Atanoa T, Unasa-Apelu F, Naseri T, Wetzel AI, Pomer A, Duckham RL, McGarvey ST, Strayer JA, Kershaw EE, Weeks DE, Hawley NL. A missense variant in CREBRF, rs373863828, is associated with fat-free mass, not fat mass in Samoan infants. Int J Obes (Lond). 2021 Jan;45(1):45-55. doi: 10.1038/s41366-020-00659-4. Epub 2020 Sep 3. PMID: 32884101; PMCID: PMC8329753.\nOyama S, Arslanian KJ, Fidow UT, Naseri T, Soti-Ulberg C, Hawley NL. Factorial validation analysis of the Baby and Children’s Eating Behavior Questionnaires in Samoa. Eat Behav. 2021 Aug;42:101530. doi: 10.1016/j.eatbeh.2021.101530. Epub 2021 May 24. PMID: 34051664; PMCID: PMC8380697.\nOyama S, Duckham RL, Arslanian KJ, Kershaw EE, Strayer JA, Fidow UT, Naseri T, Hawley NL. Body size and composition of Samoan toddlers aged 18-25 months in 2019. Ann Hum Biol. 2021 Jun;48(4):346-349. doi: 10.1080/03014460.2021.1951351. Epub 2021 Aug 3. PMID: 34340601; PMCID: PMC9912174.\nOyama S, Arslanian KJ, Levy SB, Ocobock CJ, Fidow UT, Naseri T, Hawley NL. Feasibility of using infrared thermal imaging to examine brown adipose tissue in infants aged 18 to 25 months. Ann Hum Biol. 2021 Aug;48(5):374-381. doi: 10.1080/03014460.2021.1985607. Epub 2021 Nov 15. PMID: 34781801.\nOyama S, Arslanian KJ, Fidow UT, Naseri T, Soti-Ulberg C, Hawley NL. Cross-sectional and prospective associations between household socioeconomic resources, appetite traits, and body size among Samoan infants. Appetite. 2023 Jun 1;185:106519. doi: 10.1016/j.appet.2023.106519. Epub 2023 Mar 3. PMID: 36870391.\nHeinsberg LW, Niu S, Arslanian KJ, Chen R, Bedi M, Unasa-Apelu F, Fidow UT, Soti-Ulberg C, Conley YP, Weeks DE, Ng CA, Hawley NL. Characterization of per- and polyfluoroalkyl substances (PFAS) concentrations in a community-based sample of infants from Samoa. Chemosphere. 2024 Apr;353:141527. doi: 10.1016/j.chemosphere.2024.141527. Epub 2024 Feb 22. PMID: 38401869; PMCID: PMC10997188.",
+    "crumbs": [
+      "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html",
+    "href": "eetr.html",
+    "title": "The EETR Study",
+    "section": "",
+    "text": "Overview\nEETR is an observational, prospective, longitudinal concurrent cohort study of children aged 3-18 years with either TBI or orthopedic injury, recruited from the UPMC Children’s Hospital of Pittsburgh. Participants complete study visits acutely and at 6 and 12 months post-injury.",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#genomic-data",
+    "href": "eetr.html#genomic-data",
+    "title": "The EETR Study",
+    "section": "Genomic data",
+    "text": "Genomic data\n\nBDNF DNA methylation\nGenome-wide DNA methylation\nBDNF expression data",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#eligibility",
+    "href": "eetr.html#eligibility",
+    "title": "The EETR Study",
+    "section": "Eligibility",
+    "text": "Eligibility\nChildren aged 3-18 years with either TBI or orthopedic injury and no history of neurological disorder.",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#study-dates",
+    "href": "eetr.html#study-dates",
+    "title": "The EETR Study",
+    "section": "Study Dates",
+    "text": "Study Dates\n2017 - present",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#ethics",
+    "href": "eetr.html#ethics",
+    "title": "The EETR Study",
+    "section": "Ethics",
+    "text": "Ethics\nThe study received ethics approval from the University of Pittsburgh Institutional Review Board. Participants and their parents provide informed consent/assent.",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#assessments",
+    "href": "eetr.html#assessments",
+    "title": "The EETR Study",
+    "section": "Assessments",
+    "text": "Assessments\nEETR data collection is conducted at three time points: acute (prior to hospital discharge) and chronic (at 6 and 12 months post-injury) during outpatient follow-up visits at CHP. Extensive phenotypic data collection broadly included hypothesized predictors of neurobehavioral recovery, neurobehavioral outcomes, and potential confounders/covariates related to epignetics or neurobehvaioral recovery.",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#team",
+    "href": "eetr.html#team",
+    "title": "The EETR Study",
+    "section": "Team",
+    "text": "Team\nAmery Treble-Barna (PI); Lacey Heinsberg, Dan Weeks, Yvette Conley, Pat Kochanek, Keith Yeates (Co-Is)",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#funding",
+    "href": "eetr.html#funding",
+    "title": "The EETR Study",
+    "section": "Funding",
+    "text": "Funding\n\nK01HD097030\nR01NS135492",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "eetr.html#related-publications",
+    "href": "eetr.html#related-publications",
+    "title": "The EETR Study",
+    "section": "Related publications",
+    "text": "Related publications\n\nTreble-Barna A, Patronick J, Uchani S, Marousis NC, Zigler CK, Fink EL, Kochanek PM, Conley YP, Yeates KO. Epigenetic Effects on Pediatric Traumatic Brain Injury Recovery (EETR): An Observational, Prospective, Longitudinal Concurrent Cohort Study Protocol. Front Neurol. 2020 Jun 12;11:460. doi: 10.3389/fneur.2020.00460. PMID: 32595586; PMCID: PMC7303323.\nTreble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA, Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks DE, Conley YP. Brain-derived neurotrophic factor (BDNF) epigenomic modifications and brain-related phenotypes in humans: A systematic review. Neurosci Biobehav Rev. 2023 Apr;147:105078. doi: 10.1016/j.neubiorev.2023.105078. Epub 2023 Feb 9. PMID: 36764636; PMCID: PMC10164361.",
+    "crumbs": [
+      "The EETR Study"
+    ]
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training opportunities",
+    "section": "",
+    "text": "R/Unix basics:",
+    "crumbs": [
+      "Training opportunities"
+    ]
+  },
+  {
+    "objectID": "training.html#runix-basics",
+    "href": "training.html#runix-basics",
+    "title": "Training opportunities",
+    "section": "",
+    "text": "https://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
+    "crumbs": [
+      "Training opportunities"
+    ]
+  },
+  {
+    "objectID": "training.html#quarto-books",
+    "href": "training.html#quarto-books",
+    "title": "Training opportunities",
+    "section": "Quarto books",
+    "text": "Quarto books\nTo learn more about Quarto books visit: https://quarto.org/docs/books/.",
+    "crumbs": [
+      "Training opportunities"
     ]
   }
 ]

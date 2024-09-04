@@ -114,9 +114,9 @@ In addition to the expectations above that apply to every lab member, students a
 * **Presentation practice**: We will create opportunities for you to practice talks for conferences or other venues, potentially multiple times. I will also provide feedback on the structure and content of your slides before the practice sessions.
 * **Career goals and training plans**: We will have discussions about your future career goals and any issues you may face, tailoring your training plans accordingly. These conversations will occur in a safe and confidential space if desired.
 
-## Disclosures 
+## Acknolwedgements 
 
-ChatGPT 40 was used to edit this laboratory code of conduct. 
+The content for this guide was inspired by the lab resources of [Dr. Charleston Chiang](https://chianglab.usc.edu/resources.html), the vision of [Dr. Jenna Carlson](https://www.publichealth.pitt.edu/directory/jenna-carlson), and teachings of [Osho Mike Travisano, The Art of Monday Morning](https://www.theartofmondaymorning.com/). ChatGPT 40 was used to edit the content of this laboratory code of conduct for clarity. 
 
 ## Conclusion 
 
