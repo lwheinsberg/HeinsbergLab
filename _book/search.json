@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Heinsberg Lab",
+    "section": "",
+    "text": "Lab information\nGenetics and Genomics of Health Promotion and Development",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#primary-investigator-pi",
+    "href": "index.html#primary-investigator-pi",
+    "title": "The Heinsberg Lab",
+    "section": "Primary Investigator (PI)",
+    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor\nHealth Promotion and Development\nUniversity of Pittsburgh School of Nursing\n440 Victoria Building (451A)\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#lab-purpose",
+    "href": "index.html#lab-purpose",
+    "title": "The Heinsberg Lab",
+    "section": "Lab purpose",
+    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy study in American Samoa\nThe EETR Study: A study of TBI outcomes in children",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "The Heinsberg Lab",
+    "section": "Copyright",
+    "text": "Copyright\nCopyright information:\nCopyright 2024, Lacey Heinsberg. All Rights Reserved. License: GPL-2",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#acknolwedgements",
+    "href": "index.html#acknolwedgements",
+    "title": "The Heinsberg Lab",
+    "section": "Acknolwedgements",
+    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. The content for this guide was inspired by the lab resources of Dr. Charleston Chiang, the vision of Dr. Jenna Carlson , and Osho Mike Travisano, The Art of Monday Morning (an incredible teacher who has imparted lessons I strive to carry into my work).",
+    "crumbs": [
+      "Lab information"
+    ]
+  }
+]
