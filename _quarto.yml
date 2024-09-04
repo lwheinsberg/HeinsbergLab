@@ -16,6 +16,7 @@ book:
   - hope.qmd
   - grow.qmd
   - eetr.qmd
+  - recent_pubs.qmd
   - training.qmd
 format:
   html:
