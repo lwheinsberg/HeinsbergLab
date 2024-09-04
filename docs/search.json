@@ -512,31 +512,31 @@
   {
     "objectID": "training.html",
     "href": "training.html",
-    "title": "Training opportunities",
+    "title": "Training",
     "section": "",
     "text": "R/Unix basics",
     "crumbs": [
-      "Training opportunities"
+      "Training"
     ]
   },
   {
     "objectID": "training.html#runix-basics",
     "href": "training.html#runix-basics",
-    "title": "Training opportunities",
+    "title": "Training",
     "section": "",
-    "text": "https://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
+    "text": "Online\n\nhttps://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
     "crumbs": [
-      "Training opportunities"
+      "Training"
     ]
   },
   {
     "objectID": "training.html#quarto-books",
     "href": "training.html#quarto-books",
-    "title": "Training opportunities",
+    "title": "Training",
     "section": "Quarto books",
     "text": "Quarto books\nTo learn more about Quarto books visit: https://quarto.org/docs/books/.",
     "crumbs": [
-      "Training opportunities"
+      "Training"
     ]
   }
 ]

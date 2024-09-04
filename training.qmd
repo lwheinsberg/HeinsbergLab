@@ -1,6 +1,8 @@
-# Training opportunities {.unnumbered}
+# Training {.unnumbered}
 
 ## R/Unix basics
+
+### Online
 
 - <https://danieleweeks.github.io/HuGen2071/preparation.html>
 - <https://github.com/ajwills72/rminr>
