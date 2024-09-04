@@ -12,12 +12,12 @@ book:
   chapters:
   - index.qmd
   - intro.qmd
+  - recent_pubs.qmd
+  - woohoo.qmd
   - foafoaga.qmd  
   - hope.qmd
   - grow.qmd
   - eetr.qmd
-  - recent_pubs.qmd
-  - woohoo.qmd
   - training.qmd
 format:
   html:
