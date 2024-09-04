@@ -39,7 +39,7 @@ Amery Treble-Barna (PI); Lacey Heinsberg, Dan Weeks, Yvette Conley, Pat Kochanek
 * [K01HD097030](https://reporter.nih.gov/search/IEeSkSd_70aDzwz6FxIMDA/project-details/10678647)
 * [R01NS135492](https://reporter.nih.gov/search/IEeSkSd_70aDzwz6FxIMDA/project-details/10980135)
 
-## Related publications 
+## Selected publications 
 
 1. Treble-Barna A, Patronick J, Uchani S, Marousis NC, Zigler CK, Fink EL, Kochanek PM, Conley YP, Yeates KO. Epigenetic Effects on Pediatric Traumatic Brain Injury Recovery (EETR): An Observational, Prospective, Longitudinal Concurrent Cohort Study Protocol. Front Neurol. 2020 Jun 12;11:460. doi: 10.3389/fneur.2020.00460. PMID: 32595586; PMCID: PMC7303323.
 
