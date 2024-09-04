@@ -1,0 +1,34 @@
+project:
+  type: book
+  resources:
+  - webr-serviceworker.js
+  - webr-worker.js
+  - coi-serviceworker.js
+book:
+  title: The Heinsberg Lab
+  author: Lacey W. Heinsberg, PhD, RN 
+  date: today
+  date-format: long
+  chapters:
+  - index.qmd
+  - intro.qmd
+  - training.qmd
+  - foafoaga.qmd  
+  - hope.qmd
+  - grow.qmd
+  - eetr.qmd
+format:
+  html:
+    theme: cosmo
+    css: include/webex.css
+    include-after-body: include/webex.js
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/lwheinsberg\.github\.io\/HeinsbergLab'
+    numbered: false  # Disable numbering for HTML format
+  pdf:
+    documentclass: scrreprt
+    numbered: false  # Disable numbering for HTML format
+editor: visual
+filters: 
+  - webr

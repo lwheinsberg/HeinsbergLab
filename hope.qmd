@@ -1,0 +1,46 @@
+![](HOPE.png){fig-align="center" width="300"}
+
+# The HOPE Study {.unnumbered}
+
+**H**ealth **O**utcomes in **P**regnancy and **E**arly **C**hildhood 
+
+## Overview
+
+The HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study will focus on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth. 
+
+## Planned genomic data 
+
+* CREBRF rs373863828
+* Genome-wide DNA methylation data
+* Genome-wide RNA seq data 
+* Microbiome data 
+* PFAS data
+
+## Eligibility
+
+The study will include mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.
+
+## Study Dates
+
+This study is currently in the planning phase.
+
+## Ethics
+
+Ethical approvals are currently under review as part of the study planning.
+
+## Assessments
+
+Trained, bilingual Samoan research assistants will conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection will include sleep patterns, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood will also be collected.
+
+## Team 
+
+Lacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna Carlson, Yvette Conley, and Erin Kershaw (Co-Is); Miracle Loia (Project Coordinator)
+
+## Funding 
+
+* [R00HD107030](https://reporter.nih.gov/search/s9cX7Mg6vEiIAQOGIvCqog/project-details/11119329)
+* Pitt Nursing
+
+## Related publications 
+
+Pending 

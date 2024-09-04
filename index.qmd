@@ -1,0 +1,34 @@
+![](HeinsbergLab.png){fig-align="center" width="300"}
+
+# Lab information {.unnumbered}
+
+## Primary Investigator (PI)
+
+[Lacey W. Heinsberg, PhD, RN](https://www.nursing.pitt.edu/person/lacey-w-heinsberg)                       
+Assistant Professor                       
+Health Promotion and Development                    
+University of Pittsburgh School of Nursing                 
+440 Victoria Building (451A)                
+3500 Victoria Street               
+Pittsburgh, PA 15261               
+412-383-2581 | law145\@pitt.edu                   
+Pronouns: she/her      
+
+## Lab purpose 
+
+We use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include: 
+
+* [The Foafoaga o le Ola Study](./foafoaga.qmd): A mom-baby study in Samoa 
+* [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa 
+* [The GROW Study](./grow.qmd): A pregnancy study in American Samoa
+* [The EETR Study](./eetr.qmd): A study of TBI outcomes in children 
+
+## Copyright
+
+Copyright information:
+
+Copyright 2024, Lacey Heinsberg. All Rights Reserved. License: [GPL-2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+## Acknolwedgements 
+
+This Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. The content for this guide was inspired by the lab resources of [Dr. Charleston Chiang](https://chianglab.usc.edu/resources.html), the vision of [Dr. Jenna Carlson](https://www.publichealth.pitt.edu/directory/jenna-carlson) , and [Osho Mike Travisano, The Art of Monday Morning](https://www.theartofmondaymorning.com/) (an incredible teacher who has imparted lessons I strive to carry into my work).

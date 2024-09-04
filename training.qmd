@@ -1,0 +1,13 @@
+# Training opportunities {.unnumbered}
+
+## R/Unix basics:
+
+- <https://danieleweeks.github.io/HuGen2071/preparation.html>
+- <https://github.com/ajwills72/rminr>
+- <https://www.andywills.info/rminr/#beginners>
+- <https://www.youtube.com/watch?v=IrDUcdpPmdI>
+
+## Quarto books
+
+To learn more about Quarto books visit: <https://quarto.org/docs/books/>.
+   
