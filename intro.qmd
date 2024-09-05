@@ -29,13 +29,13 @@ I encourage you to take advantage of our flexible vacation schedule. Postdoc and
 
 ## Inclusivity and lab culture
 
-### Identity and Authenticity
+### Identity and authenticity
 
 I encourage you to share your identity and be authentic. While we maintain respect and professionalism, I acknowledge that academia has centuries of norms that can make people feel excluded. This is a safe space to be yourself.
 
 ### Harassment-free environment
 
-Our lab is inclusive and welcoming. We do not tolerate discrimination based on race, citizenship, religion, political affiliations, gender identity, sexual orientation, disability, pregnancy, appearance, or any other attributes. Microaggressions and hostility have no place here. We all need to be mindful of (and do the work to reduce) our implicit biases. We are united by our passion for science.
+Our lab is inclusive and welcoming. We do not tolerate discrimination of any kind including that based on race, citizenship, religion, political affiliations, gender identity, sexual orientation, disability, pregnancy, appearance, or any other attributes. Microaggressions and hostility have no place here. We all need to be mindful of (and do the work to reduce) our implicit biases. We are united by our passion for science.
 
 * [Campus policy](https://www.diversity.pitt.edu/notice-nondiscrimination-and-anti-harassment-policy-statement)         
 * [Campus and community resources](https://app.convercent.com/en-US/LandingPage/2d6327d5-9fec-ea11-a974-000d3ab9f296?_=1612800567898)        
@@ -51,6 +51,10 @@ I encourage everyone to assess their values and evaluate whether they are living
 * Transparency / Trust
 * Generosity
 
+Understanding both your personal values and the values of the lab is essential for building a cohesive, effective team. When individuals align their actions with their core values, they bring authenticity to their work, which fosters trust and open communication within the group. A shared commitment to values like objectivity and transparency ensures that we approach our scientific work with integrity, providing a solid foundation for collaborative research.
+
+By recognizing and appreciating the diversity of values within the team, we also promote an environment of generosity and stewardship, where each member feels supported and empowered to contribute their best work. Ultimately, aligning personal and collective values helps us move toward a common goal, ensuring that our lab’s culture supports both individual fulfillment and the success of our scientific endeavors.
+
 ## Communicaton expectations
 
 ### E-mails
@@ -59,7 +63,7 @@ Due to my own working style and work-life balance, I may send emails outside of 
 
 ### General tips 
 
-Clear and respectful communication is key. When you need something, be clear about what, when, and why. Here are some templates to help:
+Clear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), acknowledge it and respond to the request. Here are some templates to help:
 
 * **Making a request**: I request that you do X by time Y.
 * **Responding to a request**: (A) Yes, (B) No, or (C) a negotiation.

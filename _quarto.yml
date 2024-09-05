@@ -12,6 +12,7 @@ book:
   chapters:
   - index.qmd
   - intro.qmd
+  - team.qmd
   - recent_pubs.qmd
   - woohoo.qmd
   - foafoaga.qmd  
