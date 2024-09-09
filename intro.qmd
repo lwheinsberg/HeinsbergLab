@@ -3,12 +3,12 @@
 Welcome to **The Heinsberg Lab**! The purpose of this page is to provide general guidelines to help us build an equitable, inclusive, and respectful lab culture that is both friendly and productive.
 
 ## Well-being and work-life balance
- 
+
 ### Well-being first
 
 Academic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.
 
-For example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it's mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son’s laugh, or the feel of my cat’s fur. These moments help me remember that, even when the grant isn’t funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the "bad" things that happen (that sometimes turn out to be good things) don’t change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family. 
+For example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it's mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son's laugh, or the feel of my cat's fur. These moments help me remember that, even when the grant isn't funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the "bad" things that happen (that sometimes turn out to be good things) don't change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.
 
 That said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.
 
@@ -24,8 +24,8 @@ I understand the challenges of balancing childcare and academic responsibilities
 
 I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. Plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
 
-* [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)                     
-* [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)              
+-   [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)\
+-   [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)
 
 ## Inclusivity and lab culture
 
@@ -37,23 +37,23 @@ I encourage you to share your identity and be authentic. While we maintain respe
 
 Our lab is inclusive and welcoming. We do not tolerate discrimination of any kind including that based on race, citizenship, religion, political affiliations, gender identity, sexual orientation, disability, pregnancy, appearance, or any other attributes. Microaggressions and hostility have no place here. We all need to be mindful of (and do the work to reduce) our implicit biases. We are united by our passion for science.
 
-* [Campus policy](https://www.diversity.pitt.edu/notice-nondiscrimination-and-anti-harassment-policy-statement)         
-* [Campus and community resources](https://app.convercent.com/en-US/LandingPage/2d6327d5-9fec-ea11-a974-000d3ab9f296?_=1612800567898)        
+-   [Campus policy](https://www.diversity.pitt.edu/notice-nondiscrimination-and-anti-harassment-policy-statement)\
+-   [Campus and community resources](https://app.convercent.com/en-US/LandingPage/2d6327d5-9fec-ea11-a974-000d3ab9f296?_=1612800567898)
 
 ### Values
 
 I encourage everyone to assess their values and evaluate whether they are living those values. Some of our lab values include:
- 
-* Objectivity
-* Authenticity
-* Communication
-* Stewardship
-* Transparency / Trust
-* Generosity
+
+-   Objectivity
+-   Authenticity
+-   Communication
+-   Stewardship
+-   Transparency / Trust
+-   Generosity
 
 Understanding both your personal values and the values of the lab is essential for building a cohesive, effective team. When individuals align their actions with their core values, they bring authenticity to their work, which fosters trust and open communication within the group. A shared commitment to values like objectivity and transparency ensures that we approach our scientific work with integrity, providing a solid foundation for collaborative research.
 
-By recognizing and appreciating the diversity of values within the team, we also promote an environment of generosity and stewardship, where each member feels supported and empowered to contribute their best work. Ultimately, aligning personal and collective values helps us move toward a common goal, ensuring that our lab’s culture supports both individual fulfillment and the success of our scientific endeavors.
+By recognizing and appreciating the diversity of values within the team, we also promote an environment of generosity and stewardship, where each member feels supported and empowered to contribute their best work. Ultimately, aligning personal and collective values helps us move toward a common goal, ensuring that our lab's culture supports both individual fulfillment and the success of our scientific endeavors.
 
 ## Communicaton expectations
 
@@ -61,40 +61,40 @@ By recognizing and appreciating the diversity of values within the team, we also
 
 Due to my own working style and work-life balance, I may send emails outside of what is considered "regular" working hours. I do not expect a response from you outside of your typical working schedule. Though there may be occasional exceptions if we are working close to a deadline. In those instances, I will let you know ahead of time the possibility of breaking this expectation.
 
-### General tips 
+### General tips
 
 Clear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), acknowledge it and respond to the request. Here are some templates to help:
 
-* **Making a request**: I request that you do X by time Y.
-* **Responding to a request**: (A) Yes, (B) No, or (C) a negotiation.
-* **Making a complaint**: You agreed to do X by time Y, and you didn’t do it. Here's how it impacted me. I request that you do X_2 by time Y_2.
-* **Making an apology**: I agreed to do X by time Y, and I did not do it. Here's my understanding of how it impacted you. What can I do to make it up?
-* **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you...
+-   **Making a request**: I request that you do X by time Y.
+-   **Responding to a request**: (A) Yes, (B) No, or (C) a negotiation.
+-   **Making a complaint**: You agreed to do X by time Y, and you didn't do it. Here's how it impacted me. I request that you do X_2 by time Y_2.
+-   **Making an apology**: I agreed to do X by time Y, and I did not do it. Here's my understanding of how it impacted you. What can I do to make it up?
+-   **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you...
 
 ### Canceling or rescheduling meetings
 
 If you need to reschedule or cancel a meeting, please give 24 hours notice. While this isn't always feasible, do your best to communicate as promptly as possible.
 
-## Research practices and professional development 
+## Research practices and professional development
 
 ### Participation
 
-While there are no current plans for regular group lab meetings, we may add these in the future. For any meetings that we do have, active participation is expected. 
+While there are no current plans for regular group lab meetings, we may add these in the future. For any meetings that we do have, active participation is expected.
 
 ### Reproducibility
 
-Sharing is essential to our collective growth. Whether it's writing, methods, or data, we document everything clearly to support each other as researchers. Where relevant, please use LabArchives (Pitt’s electronic lab notebook) to keep detailed records of your work—what worked, what didn’t, and why—so others can build on your efforts. This practice not only upholds scientific rigor but also fosters collaboration and learning within our lab. We aim to share our work openly, from preprints to online repositories, ensuring that our contributions are accessible to the broader community. By lifting each other up, we strengthen our research together. 
+Sharing is essential to our collective growth. Whether it's writing, methods, or data, we document everything clearly to support each other as researchers. Where relevant, please use LabArchives (Pitt's electronic lab notebook) to keep detailed records of your work---what worked, what didn't, and why---so others can build on your efforts. This practice not only upholds scientific rigor but also fosters collaboration and learning within our lab. We aim to share our work openly, from preprints to online repositories, ensuring that our contributions are accessible to the broader community. By lifting each other up, we strengthen our research together.
 
-### Generative artificial intelligence (AI) 
+### Generative artificial intelligence (AI)
 
-I use ChatGPT and other generative AI tools daily, and I’m OK with you using it too. However, I have a few expectations about how it should be used:
+I use ChatGPT and other generative AI tools daily, and I'm OK with you using it too. However, I have a few expectations about how it should be used:
 
-* **Become AI literate:** Take training courses, particularly on ethical use. Develop your own code of conduct outlining when and how you’ll use AI tools.
-* **Don't become overly reliant:** Use it sparingly. Don’t let it make you lazy—relying too much on AI can be a slippery slope.
-* **Generate structure, not content:** Feel free to use AI to help with organizing ideas or enhancing communication, but avoid relying on it to draft full content.
-* **Respect privacy:** Never input other people’s writing or personal information into AI tools.
-* **Maintain objectivity:** Remember, you are the human in the loop. Generative AI is often wrong—don't trust it blindly. Always investigate and fact-check.
-* **Disclose its use:** Be transparent about when you’ve used AI—share what tools you used, for what purpose, and when.
+-   **Become AI literate:** Take training courses, particularly on ethical use. Develop your own code of conduct outlining when and how you'll use AI tools.
+-   **Don't become overly reliant:** Use it sparingly. Don't let it make you lazy---relying too much on AI can be a slippery slope.
+-   **Generate structure, not content:** Feel free to use AI to help with organizing ideas or enhancing communication, but avoid relying on it to draft full content.
+-   **Respect privacy:** Never input other people's writing or personal information into AI tools.
+-   **Maintain objectivity:** Remember, you are the human in the loop. Generative AI is often wrong---don't trust it blindly. Always investigate and fact-check.
+-   **Disclose its use:** Be transparent about when you've used AI---share what tools you used, for what purpose, and when.
 
 ### Self-enrichment
 
@@ -102,26 +102,26 @@ Stay immersed in the literature. Good ideas often come from reading widely. Atte
 
 ### Fellowships and travel grants
 
-Everyone should look for funding opportunities. PhD students should aim for an F31, and postdocs for a K award. Any BSN students interested in research or research funding – let’s work together to find something for you to apply for! These awards can help you attend conferences, network, and broaden your expertise. I’m here to help with advice on applications.
+Everyone should look for funding opportunities. PhD students should aim for an F31, and postdocs for a K award. Any BSN students interested in research or research funding -- let's work together to find something for you to apply for! These awards can help you attend conferences, network, and broaden your expertise. I'm here to help with advice on applications.
 
 ### Publish and present
 
-Everyone is encouraged to publish their findings and present at conferences. Sharing our work with the broader scientific community is crucial for advancing knowledge and building your professional reputation. Whether it’s submitting papers to peer-reviewed journals or giving talks at conferences, these activities are vital components of your academic career. We will support each other in preparing manuscripts, practicing presentations, and navigating the submission process.
+Everyone is encouraged to publish their findings and present at conferences. Sharing our work with the broader scientific community is crucial for advancing knowledge and building your professional reputation. Whether it's submitting papers to peer-reviewed journals or giving talks at conferences, these activities are vital components of your academic career. We will support each other in preparing manuscripts, practicing presentations, and navigating the submission process.
 
 ## Expectations of the PI
 
 In addition to the expectations above that apply to every lab member, students and postdocs can anticipate the following from me:
 
-* **Regular meetings**: This will look different for each lab member depending on your role in the group. However, in general, you can expect weekly, bi-weekly, or monthly one-on-one or group meetings to discuss research progress, work assignments, and plan next steps. Additional meetings can be scheduled via email as needed.
-* **Grant and fellowship support**: I will assist with brainstorming, writing, and improving postdoctoral or graduate fellowship applications, travel grants, and other grant applications that are related to work being conducted in this lab. 
-* **Manuscript and abstract contributions**: I will read, comment, edit, and contribute significantly to any abstracts and manuscripts resulting from your research in this lab.
-* **Presentation practice**: We will create opportunities for you to practice talks for conferences or other venues, potentially multiple times. I will also provide feedback on the structure and content of your slides before the practice sessions.
-* **Career goals and training plans**: We will have discussions about your future career goals and any issues you may face, tailoring your training plans accordingly. These conversations will occur in a safe and confidential space if desired.
+-   **Regular meetings**: This will look different for each lab member depending on your role in the group. However, in general, you can expect weekly, bi-weekly, or monthly one-on-one or group meetings to discuss research progress, work assignments, and plan next steps. Additional meetings can be scheduled via email as needed.
+-   **Grant and fellowship support**: I will assist with brainstorming, writing, and improving postdoctoral or graduate fellowship applications, travel grants, and other grant applications that are related to work being conducted in this lab.
+-   **Manuscript and abstract contributions**: I will read, comment, edit, and contribute significantly to any abstracts and manuscripts resulting from your research in this lab.
+-   **Presentation practice**: We will create opportunities for you to practice talks for conferences or other venues, potentially multiple times. I will also provide feedback on the structure and content of your slides before the practice sessions.
+-   **Career goals and training plans**: We will have discussions about your future career goals and any issues you may face, tailoring your training plans accordingly. These conversations will occur in a safe and confidential space if desired.
 
-## Acknolwedgements 
+## Acknolwedgements
 
-The content for this guide was inspired by the lab resources of [Dr. Charleston Chiang](https://chianglab.usc.edu/resources.html), the vision of [Dr. Jenna Carlson](https://www.publichealth.pitt.edu/directory/jenna-carlson), and teachings of [Osho Mike Travisano, The Art of Monday Morning](https://www.theartofmondaymorning.com/). ChatGPT 40 was used to edit the content of this laboratory code of conduct for clarity. 
+This guide was inspired by the vision of [Dr. Jenna Carlson](https://www.publichealth.pitt.edu/directory/jenna-carlson), lab resources content of [Dr. Charleston Chiang](https://chianglab.usc.edu/resources.html), mentorship of [Dr. Yvette Conley](https://www.nursing.pitt.edu/person/yvette-conley) and [Dr. Daniel Weeks](https://www.publichealth.pitt.edu/directory/daniel-weeks), and teachings of [Osho Mike Travisano, The Art of Monday Morning](https://www.theartofmondaymorning.com/). ChatGPT 40 was used to edit the content of this laboratory code of conduct for clarity.
 
-## Conclusion 
+## Conclusion
 
-Welcome again, and let’s make the Heinsberg Lab a fantastic place to work and grow! If you have any questions or comments, please feel free to contact me!
+Welcome again, and let's make the Heinsberg Lab a fantastic place to work and grow! If you have any questions or comments, please feel free to contact me!

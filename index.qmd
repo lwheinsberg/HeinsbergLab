@@ -4,24 +4,26 @@
 
 ## Primary Investigator (PI)
 
-[Lacey W. Heinsberg, PhD, RN](https://www.nursing.pitt.edu/person/lacey-w-heinsberg)                       
-Assistant Professor                       
-Health Promotion and Development                    
-University of Pittsburgh School of Nursing                 
-440 Victoria Building (451A)                
-3500 Victoria Street               
-Pittsburgh, PA 15261               
-412-383-2581 | law145\@pitt.edu                   
-Pronouns: she/her      
+[Lacey W. Heinsberg, PhD, RN](https://www.nursing.pitt.edu/person/lacey-w-heinsberg)\
+Assistant Professor\
+Health Promotion and Development\
+University of Pittsburgh School of Nursing\
+440 Victoria Building (451A)\
+3500 Victoria Street\
+Pittsburgh, PA 15261\
+412-383-2581 \| law145\@pitt.edu\
+Pronouns: she/her
 
-## Lab purpose 
+## Lab purpose
 
-We use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include: 
+We use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:
 
-* [The Foafoaga o le Ola Study](./foafoaga.qmd): A mom-baby study in Samoa 
-* [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa 
-* [The GROW Study](./grow.qmd): A pregnancy study in American Samoa
-* [The EETR Study](./eetr.qmd): A study of TBI outcomes in children 
+-   [The Foafoaga o le Ola Study](./foafoaga.qmd): A mom-baby study in Samoa
+-   [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa
+-   [The GROW Study](./grow.qmd): A pregnancy study in American Samoa
+-   [The EETR Study](./eetr.qmd): A study of traumatic brain injury (TBI) outcomes in children
+
+Additional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.
 
 ## Copyright
 
@@ -29,6 +31,6 @@ Copyright information:
 
 Copyright 2024, Lacey Heinsberg. All Rights Reserved. License: [GPL-2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-## Acknolwedgements 
+## Acknolwedgements
 
-This Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E. 
+This Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.
