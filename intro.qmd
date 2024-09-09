@@ -66,7 +66,7 @@ Due to my own working style and work-life balance, I may send emails outside of 
 Clear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), acknowledge it and respond to the request. Here are some templates to help:
 
 -   **Making a request**: I request that you do X by time Y.
--   **Responding to a request**: (A) Yes, (B) No, or (C) a negotiation.
+-   **Responding to a request**: (A) Yes, (B) No, or (C) A negotiation.
 -   **Making a complaint**: You agreed to do X by time Y, and you didn't do it. Here's how it impacted me. I request that you do X_2 by time Y_2.
 -   **Making an apology**: I agreed to do X by time Y, and I did not do it. Here's my understanding of how it impacted you. What can I do to make it up?
 -   **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you...

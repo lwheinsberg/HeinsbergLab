@@ -1,22 +1,20 @@
-![](eetr.png){fig-align="center" width="500"}
-
 # The EETR Study {.unnumbered}
 
 **E**pigenetic **E**ffects on Pediatric **T**raumatic Brain Injury **R**ecovery
 
 ## Overview
 
-EETR is an observational, prospective, longitudinal concurrent cohort study of children aged 3-18 years with either TBI or orthopedic injury, recruited from the UPMC Children's Hospital of Pittsburgh. Participants complete study visits acutely and at 6 and 12 months post-injury. 
+EETR is an observational, prospective, longitudinal concurrent cohort study of children aged 3-18 years with either TBI or orthopedic injury, recruited from the UPMC Children's Hospital of Pittsburgh. Participants complete study visits acutely and at 6 and 12 months post-injury.
 
-## Genomic data 
+## Genomic data
 
-* BDNF DNA methylation 
-* Genome-wide DNA methylation 
-* BDNF expression data
+-   BDNF DNA methylation
+-   Genome-wide DNA methylation
+-   BDNF expression data
 
 ## Eligibility
 
-Children aged 3-18 years with either TBI or orthopedic injury and no history of neurological disorder. 
+Children aged 3-18 years with either TBI or orthopedic injury and no history of neurological disorder.
 
 ## Study Dates
 
@@ -28,19 +26,19 @@ The study received ethics approval from the University of Pittsburgh Institution
 
 ## Assessments
 
-EETR data collection is conducted at three time points: acute (prior to hospital discharge) and chronic (at 6 and 12 months post-injury) during outpatient follow-up visits at CHP. Extensive phenotypic data collection broadly included hypothesized predictors of neurobehavioral recovery, neurobehavioral outcomes, and potential confounders/covariates related to epignetics or neurobehvaioral recovery.  
+EETR data collection is conducted at three time points: acute (prior to hospital discharge) and chronic (at 6 and 12 months post-injury) during outpatient follow-up visits at CHP. Extensive phenotypic data collection broadly included hypothesized predictors of neurobehavioral recovery, neurobehavioral outcomes, and potential confounders/covariates related to epignetics or neurobehvaioral recovery.
 
-## Team 
+## Team
 
 Amery Treble-Barna (PI); Lacey Heinsberg, Dan Weeks, Yvette Conley, Pat Kochanek, Keith Yeates (Co-Is)
 
-## Funding 
+## Funding
 
-* [K01HD097030](https://reporter.nih.gov/search/IEeSkSd_70aDzwz6FxIMDA/project-details/10678647)
-* [R01NS135492](https://reporter.nih.gov/search/IEeSkSd_70aDzwz6FxIMDA/project-details/10980135)
+-   [K01HD097030](https://reporter.nih.gov/search/IEeSkSd_70aDzwz6FxIMDA/project-details/10678647)
+-   [R01NS135492](https://reporter.nih.gov/search/IEeSkSd_70aDzwz6FxIMDA/project-details/10980135)
 
-## Selected publications 
+## Selected publications
 
-1. Treble-Barna A, Patronick J, Uchani S, Marousis NC, Zigler CK, Fink EL, Kochanek PM, Conley YP, Yeates KO. Epigenetic Effects on Pediatric Traumatic Brain Injury Recovery (EETR): An Observational, Prospective, Longitudinal Concurrent Cohort Study Protocol. Front Neurol. 2020 Jun 12;11:460. doi: 10.3389/fneur.2020.00460. PMID: 32595586; PMCID: PMC7303323.
+1.  Treble-Barna A, Patronick J, Uchani S, Marousis NC, Zigler CK, Fink EL, Kochanek PM, Conley YP, Yeates KO. Epigenetic Effects on Pediatric Traumatic Brain Injury Recovery (EETR): An Observational, Prospective, Longitudinal Concurrent Cohort Study Protocol. Front Neurol. 2020 Jun 12;11:460. doi: 10.3389/fneur.2020.00460. PMID: 32595586; PMCID: PMC7303323.
 
-2. Treble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA, Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks DE, Conley YP. Brain-derived neurotrophic factor (BDNF) epigenomic modifications and brain-related phenotypes in humans: A systematic review. Neurosci Biobehav Rev. 2023 Apr;147:105078. doi: 10.1016/j.neubiorev.2023.105078. Epub 2023 Feb 9. PMID: 36764636; PMCID: PMC10164361.
+2.  Treble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA, Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks DE, Conley YP. Brain-derived neurotrophic factor (BDNF) epigenomic modifications and brain-related phenotypes in humans: A systematic review. Neurosci Biobehav Rev. 2023 Apr;147:105078. doi: 10.1016/j.neubiorev.2023.105078. Epub 2023 Feb 9. PMID: 36764636; PMCID: PMC10164361.
