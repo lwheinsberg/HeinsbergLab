@@ -26,7 +26,7 @@ The study received ethics approval from the University of Pittsburgh Institution
 
 ## Assessments
 
-EETR data collection is conducted at three time points: acute (prior to hospital discharge) and chronic (at 6 and 12 months post-injury) during outpatient follow-up visits at CHP. Extensive phenotypic data collection broadly included hypothesized predictors of neurobehavioral recovery, neurobehavioral outcomes, and potential confounders/covariates related to epignetics or neurobehvaioral recovery.
+EETR data collection is conducted at three time points: acute (prior to hospital discharge) and chronic (at 6 and 12 months post-injury) during outpatient follow-up visits at CHP. Extensive phenotypic data collection broadly included hypothesized predictors of neurobehavioral recovery, neurobehavioral outcomes, and potential confounders/covariates related to epigenetics or neurobehavioral recovery.
 
 ## Team
 
