@@ -564,7 +564,7 @@
     "href": "training.html#free-r-code",
     "title": "Training",
     "section": "Free R code!",
-    "text": "Free R code!\nFrom my GitHub page\n\nR code to perform backward elimination with a bootstrap stability investigation to support valid post-selection inference: https://github.com/lwheinsberg/NUR_VarSel\nA practical guide for conducting multivariate Bayesian analyses for analyzing correlated phenotypes in nursing research (repository link)\nR code to perform checks of dbGaP data set and data dictionary\nR code to create interactive data visualizations using R shiny\nSimulation code detailing why post hoc power is not informative.\n\n\n\n\n\nImage made using DALL-E",
+    "text": "Free R code!\nFrom my GitHub page\n\nR code to perform backward elimination with a bootstrap stability investigation to support valid post-selection inference\nA practical guide for conducting multivariate Bayesian analyses for analyzing correlated phenotypes in nursing research (repository link)\nR code to perform checks of dbGaP data set and data dictionary (repository link)\nR code to create interactive data visualizations using R shiny\nSimulation code detailing why post hoc power is not informative\n\n\n\n\n\nImage made using DALL-E",
     "crumbs": [
       "Training"
     ]
