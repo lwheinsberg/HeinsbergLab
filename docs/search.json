@@ -14,7 +14,7 @@
     "href": "index.html#primary-investigator-pi",
     "title": "The Heinsberg Lab",
     "section": "Primary Investigator (PI)",
-    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor\nHealth Promotion and Development\nUniversity of Pittsburgh School of Nursing\n440 Victoria Building (451A)\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
+    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor of Nursing and Human Genetics\nHealth Promotion and Development\nUniversity of Pittsburgh\n440 Victoria Building\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
     "crumbs": [
       "Lab information"
     ]
@@ -144,7 +144,7 @@
     "href": "recent_pubs.html",
     "title": "Lab publications",
     "section": "",
-    "text": "Heinsberg LW, Davis TS, Maher D, Conley YP, Bender CM, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. In Press, Biological Research for Nursing, October 2024.\nHeinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiology. https://doi.org/10.1016/j.sleepe.2024.100099.",
+    "text": "Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiology. https://doi.org/10.1016/j.sleepe.2024.100099.",
     "crumbs": [
       "Lab publications"
     ]
@@ -534,7 +534,7 @@
     "href": "training.html#runix-basics",
     "title": "Training",
     "section": "",
-    "text": "Online\n\nhttps://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
+    "text": "https://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
     "crumbs": [
       "Training"
     ]
@@ -545,6 +545,16 @@
     "title": "Training",
     "section": "Quarto books",
     "text": "Quarto books\nTo learn more about Quarto books visit: https://quarto.org/docs/books/.",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#tutorial-methodology-papers",
+    "href": "training.html#tutorial-methodology-papers",
+    "title": "Training",
+    "section": "Tutorial / methodology papers",
+    "text": "Tutorial / methodology papers\n\nHeinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.\nHeinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.\nHeinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.\nHeinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.\n\n\n\n\n\nImage made using DALL-E",
     "crumbs": [
       "Training"
     ]
