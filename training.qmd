@@ -11,22 +11,42 @@
 
 To learn more about Quarto books visit: <https://quarto.org/docs/books/>.
 
-## Tutorial / methodology papers 
+## Tutorial / methodology papers
 
-1. Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.                
+1.  Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.
 
-2. Heinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.                
+2.  Heinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.
 
-3. Heinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.                
+3.  Heinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.
 
-4. Heinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.                
+4.  Heinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.
 
-5. Heinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.                
+5.  Heinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.
+
+## Free R code! 
+
+From my [GitHub page](https://github.com/lwheinsberg)               
+
+1. R code to perform [backward elimination with a bootstrap stability investigation](https://github.com/lwheinsberg/NUR_VarSel) to support valid post-selection inference: https://github.com/lwheinsberg/NUR_VarSel               
+
+2. A practical guide for conducting [multivariate Bayesian analyses](https://lwheinsberg.github.io/mvNUR/) for analyzing correlated phenotypes in nursing research (repository [link](https://github.com/lwheinsberg/mvNUR))               
+
+3. R code to perform checks of [dbGaP data set and data dictionary](https://lwheinsberg.github.io/dbGaPCheckup/index.html)               
+
+4. R code to create [interactive data visualizations](https://github.com/lwheinsberg/NurShiny) using R shiny           
+
+5. Simulation code detailing why [post hoc power is not informative](https://github.com/lwheinsberg/PostHocPower).               
+
 
 
 <p align="center">
-  <img src="R_logo.png" alt="" width="400">
+
+<img src="R_logo.png" width="400"/>
+
 </p>
+
 <p align="center" style="font-size: 12px;">
-  *Image made using DALL-E*
-</p>   
+
+*Image made using DALL-E*
+
+</p>

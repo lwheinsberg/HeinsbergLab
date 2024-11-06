@@ -1,3 +1,5 @@
+![](Grow_logo.png){fig-align="center" width="350"}
+
 # The GROW Study {.unnumbered}
 
 **G**estational Diabetes and **R**elated **O**utcomes among American Samoan **W**omen
@@ -32,7 +34,7 @@ Nicola Hawley, Angie Bengtson, and Erin Kershaw (MPIs); Bethel Muasau-Howard, La
 
 ## Funding
 
-Pending
+R01DK139672
 
 ## Related publications
 

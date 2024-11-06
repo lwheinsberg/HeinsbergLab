@@ -414,7 +414,7 @@
     "href": "grow.html#funding",
     "title": "The GROW Study",
     "section": "Funding",
-    "text": "Funding\nPending",
+    "text": "Funding\nR01DK139672",
     "crumbs": [
       "The GROW Study"
     ]
@@ -554,7 +554,17 @@
     "href": "training.html#tutorial-methodology-papers",
     "title": "Training",
     "section": "Tutorial / methodology papers",
-    "text": "Tutorial / methodology papers\n\nHeinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.\nHeinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.\nHeinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.\nHeinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.\n\n\n\n\n\nImage made using DALL-E",
+    "text": "Tutorial / methodology papers\n\nHeinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.\nHeinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.\nHeinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.\nHeinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#free-r-code",
+    "href": "training.html#free-r-code",
+    "title": "Training",
+    "section": "Free R code!",
+    "text": "Free R code!\nFrom my GitHub page\n\nR code to perform backward elimination with a bootstrap stability investigation to support valid post-selection inference: https://github.com/lwheinsberg/NUR_VarSel\nA practical guide for conducting multivariate Bayesian analyses for analyzing correlated phenotypes in nursing research (repository link)\nR code to perform checks of dbGaP data set and data dictionary\nR code to create interactive data visualizations using R shiny\nSimulation code detailing why post hoc power is not informative.\n\n\n\n\n\nImage made using DALL-E",
     "crumbs": [
       "Training"
     ]
