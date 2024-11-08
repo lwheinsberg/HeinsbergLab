@@ -24,7 +24,17 @@
     "href": "index.html#lab-purpose",
     "title": "The Heinsberg Lab",
     "section": "Lab purpose",
-    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\n\nAdditional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
+    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy/women’s health study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\n\nAdditional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#affiliations",
+    "href": "index.html#affiliations",
+    "title": "The Heinsberg Lab",
+    "section": "Affiliations",
+    "text": "Affiliations\nObesity, Lifestyle, and Genetics Adaptations (OLaGa, “life” in Samoan) Study Group",
     "crumbs": [
       "Lab information"
     ]
@@ -142,11 +152,11 @@
   {
     "objectID": "recent_pubs.html",
     "href": "recent_pubs.html",
-    "title": "Lab publications",
+    "title": "Recent lab publications",
     "section": "",
-    "text": "Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiology. https://doi.org/10.1016/j.sleepe.2024.100099.",
+    "text": "Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiology. https://doi.org/10.1016/j.sleepe.2024.100099.\n\nPubMed",
     "crumbs": [
-      "Lab publications"
+      "Recent lab publications"
     ]
   },
   {
@@ -154,7 +164,7 @@
     "href": "woohoo.html",
     "title": "Lab announcements",
     "section": "",
-    "text": "August 2024: Congratulations to Lacey Heinsberg and the rest of the OLAGA research group for their recent NIH/NICHD R00 award “CREBRF Genomics, Gestational Diabetes, and Early Life Body Size in American Samoa”",
+    "text": "August 2024: Congratulations to Lacey Heinsberg and the rest of the OLAGA research group for their recent NIH/NICHD R00 award “CREBRF Genomics, Gestational Diabetes, and Early Life Body Size in American Samoa”\nAugust 2024: Congratulations to Nicky Hawley, Erin Kershaw, and Angie Bengtson and the rest of the OLAGA research group for their recent NIH/NICHD R01 award “CREBRF and risk of pregnancy and postpartum dysglycemia in American Samoan women”",
     "crumbs": [
       "Lab announcements"
     ]

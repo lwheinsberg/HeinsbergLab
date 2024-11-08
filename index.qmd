@@ -20,10 +20,14 @@ We use genetic- and genomic-based research approaches to study a variety of comp
 
 -   [The Foafoaga o le Ola Study](./foafoaga.qmd): A mom-baby study in Samoa
 -   [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa
--   [The GROW Study](./grow.qmd): A pregnancy study in American Samoa
+-   [The GROW Study](./grow.qmd): A pregnancy/women's health study in American Samoa
 -   [The EETR Study](./eetr.qmd): A study of traumatic brain injury (TBI) outcomes in children
 
 Additional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.
+
+## Affiliations 
+
+[Obesity, Lifestyle, and Genetics Adaptations (OLaGa, "life" in Samoan) Study Group](www.olaga.org)
 
 ## Copyright
 

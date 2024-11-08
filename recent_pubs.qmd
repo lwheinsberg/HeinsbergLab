@@ -1,7 +1,9 @@
 ![](HeinsbergLab.png){fig-align="center" width="300"}
 
-# Lab publications {.unnumbered}
+# Recent lab publications {.unnumbered}
 
-Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.
+1. Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.
 
-Heinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. *Sleep Epidemiology*. https://doi.org/10.1016/j.sleepe.2024.100099.
+2. Heinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. *Sleep Epidemiology*. https://doi.org/10.1016/j.sleepe.2024.100099.
+
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/lacey.heinsberg.1/bibliography/public/)
