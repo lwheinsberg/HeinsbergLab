@@ -1,62 +1,12 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Heinsberg Lab",
+    "objectID": "woohoo.html",
+    "href": "woohoo.html",
+    "title": "Lab announcements",
     "section": "",
-    "text": "Lab information",
+    "text": "May 2025: Congratulations to Kaylynn Bryan upon her graduation from Pitt Nuring’s BSN program! We will miss you and wish you the very best!!!\nDecember 2024: Congratulations to Sophia Pollex for receiving the Reva Rubin Memorial Undergraduate Research Fund Award ($3,828) “Associations Between Iron Metabolism Gene Variability and Clinical Outcomes After Aneurysmal Subarachnoid Hemorrhage.”\nAugust 2024: Congratulations to Nicky Hawley, Erin Kershaw, and Angie Bengtson and the rest of the OLAGA research group for their recent NIH/NICHD R01 award “CREBRF and risk of pregnancy and postpartum dysglycemia in American Samoan women”!\nAugust 2024: Congratulations to Lacey Heinsberg and the rest of the OLAGA research group for their recent NIH/NICHD R00 award “CREBRF Genomics, Gestational Diabetes, and Early Life Body Size in American Samoa”!",
     "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#primary-investigator-pi",
-    "href": "index.html#primary-investigator-pi",
-    "title": "The Heinsberg Lab",
-    "section": "Primary Investigator (PI)",
-    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor of Nursing and Human Genetics\nHealth Promotion and Development\nUniversity of Pittsburgh\n440 Victoria Building\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#lab-purpose",
-    "href": "index.html#lab-purpose",
-    "title": "The Heinsberg Lab",
-    "section": "Lab purpose",
-    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy/women’s health study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\n\nAdditional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#affiliations",
-    "href": "index.html#affiliations",
-    "title": "The Heinsberg Lab",
-    "section": "Affiliations",
-    "text": "Affiliations\nObesity, Lifestyle, and Genetics Adaptations (OLaGa, “life” in Samoan) Study Group",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#copyright",
-    "href": "index.html#copyright",
-    "title": "The Heinsberg Lab",
-    "section": "Copyright",
-    "text": "Copyright\nCopyright information:\nCopyright 2024, Lacey Heinsberg. All Rights Reserved. License: GPL-2",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#acknolwedgements",
-    "href": "index.html#acknolwedgements",
-    "title": "The Heinsberg Lab",
-    "section": "Acknolwedgements",
-    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
-    "crumbs": [
-      "Lab information"
+      "Lab announcements"
     ]
   },
   {
@@ -114,7 +64,7 @@
     "href": "intro.html#expectations-of-the-pi",
     "title": "Lab expectations",
     "section": "Expectations of the PI",
-    "text": "Expectations of the PI\n\nGeneral\nIn addition to the expectations above that apply to every lab member, students and postdocs can anticipate the following from me:\n\nRegular meetings: This will look different for each lab member depending on your role in the group. However, in general, you can expect weekly, bi-weekly, or monthly one-on-one or group meetings to discuss research progress, work assignments, and plan next steps. Additional meetings can be scheduled via email as needed.\nGrant and fellowship support: I will assist with brainstorming, writing, and improving postdoctoral or graduate fellowship applications, travel grants, and other grant applications that are related to work being conducted in this lab.\nManuscript and abstract contributions: I will read, comment, edit, and contribute significantly to any abstracts and manuscripts resulting from your research in this lab.\nPresentation practice: We will create opportunities for you to practice talks for conferences or other venues, potentially multiple times. I will also provide feedback on the structure and content of your slides before the practice sessions.\nCareer goals and training plans: We will have discussions about your future career goals and any issues you may face, tailoring your training plans accordingly. These conversations will occur in a safe and confidential space if desired.\n\n\n\nOffice hours\nFall 2024: I am on campus every Monday generally from 7:30 am until 6:30 pm. If my office door is open, please feel free to come in and chat! If my office door is closed, then that means that I am in another meeting. The other days of the week, I tend to work from home. Please always feel free to reach out to me via e-mail though and we can schedule something if you would like to talk.",
+    "text": "Expectations of the PI\n\nGeneral\nIn addition to the expectations above that apply to every lab member, students and postdocs can anticipate the following from me:\n\nRegular meetings: This will look different for each lab member depending on your role in the group. However, in general, you can expect weekly, bi-weekly, or monthly one-on-one or group meetings to discuss research progress, work assignments, and plan next steps. Additional meetings can be scheduled via email as needed.\nGrant and fellowship support: I will assist with brainstorming, writing, and improving postdoctoral or graduate fellowship applications, travel grants, and other grant applications that are related to work being conducted in this lab.\nManuscript and abstract contributions: I will read, comment, edit, and contribute significantly to any abstracts and manuscripts resulting from your research in this lab.\nPresentation practice: We will create opportunities for you to practice talks for conferences or other venues, potentially multiple times. I will also provide feedback on the structure and content of your slides before the practice sessions.\nCareer goals and training plans: We will have discussions about your future career goals and any issues you may face, tailoring your training plans accordingly. These conversations will occur in a safe and confidential space if desired.\n\n\n\nOffice hours\nI am on campus every Monday generally from 7:30 am until 6:30 pm. If my office door is open, please feel free to come in and chat! If my office door is closed, then that means that I am in another meeting. The other days of the week, I tend to work from home. Please always feel free to reach out to me via e-mail though and we can schedule something if you would like to talk.",
     "crumbs": [
       "Lab expectations"
     ]
@@ -154,19 +104,9 @@
     "href": "recent_pubs.html",
     "title": "Recent lab publications",
     "section": "",
-    "text": "Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiology. https://doi.org/10.1016/j.sleepe.2024.100099.\n\nPubMed",
+    "text": "Heinsberg LW, Kesbhat A, Petersen B, Kaseman L, Stec Z, Anton N, Kochanek PM, Yeates KO, Weeks DE, Conley YP, Treble-Barna A. Differential DNA Methylation of the Brain-Derived Neurotrophic Factor Gene is Observed after Pediatric Traumatic Brain Injury Compared to Orthopedic Injury. medRxiv [Preprint]. 2025 Jun 16:2025.06.16.25329571. doi: 10.1101/2025.06.16.25329571. PMID: 40585108; PMCID: PMC12204258.\nHeinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard B. Study Protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A Mother-Infant Study in American Samoa. medRxiv [Preprint]. 2025 Jun 6:2025.06.04.25329013. doi: 10.1101/2025.06.04.25329013. PMID: 40502564; PMCID: PMC12155048.\nHeinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2025 Apr;27(2):316-325. doi: 10.1177/10998004241292644. Epub 2024 Oct 16. PMID: 39413351. PMCID: In progress.\nHeinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiol. 2024 Dec;4:100099. doi: 10.1016/j.sleepe.2024.100099. Epub 2024 Sep 30. PMID: 39749350; PMCID: PMC11694763.\n\nPubMed",
     "crumbs": [
       "Recent lab publications"
-    ]
-  },
-  {
-    "objectID": "woohoo.html",
-    "href": "woohoo.html",
-    "title": "Lab announcements",
-    "section": "",
-    "text": "December 2024: Congratulations to Sophia Pollex for receiving the Reva Rubin Memorial Undergraduate Research Fund Award ($3,828) “Associations Between Iron Metabolism Gene Variability and Clinical Outcomes After Aneurysmal Subarachnoid Hemorrhage.”\nAugust 2024: Congratulations to Nicky Hawley, Erin Kershaw, and Angie Bengtson and the rest of the OLAGA research group for their recent NIH/NICHD R01 award “CREBRF and risk of pregnancy and postpartum dysglycemia in American Samoan women.”\nAugust 2024: Congratulations to Lacey Heinsberg and the rest of the OLAGA research group for their recent NIH/NICHD R00 award “CREBRF Genomics, Gestational Diabetes, and Early Life Body Size in American Samoa.”",
-    "crumbs": [
-      "Lab announcements"
     ]
   },
   {
@@ -264,7 +204,7 @@
     "href": "hope.html",
     "title": "The HOPE Study",
     "section": "",
-    "text": "Overview\nThe HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study will focus on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.",
+    "text": "Overview\nThe HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study focuses on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.",
     "crumbs": [
       "The HOPE Study"
     ]
@@ -284,7 +224,7 @@
     "href": "hope.html#eligibility",
     "title": "The HOPE Study",
     "section": "Eligibility",
-    "text": "Eligibility\nThe study will include mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.",
+    "text": "Eligibility\nThe study includes mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.",
     "crumbs": [
       "The HOPE Study"
     ]
@@ -294,7 +234,7 @@
     "href": "hope.html#study-dates",
     "title": "The HOPE Study",
     "section": "Study Dates",
-    "text": "Study Dates\nThis study is currently in the planning phase.",
+    "text": "Study Dates\nThis study is in progress, recruitment phase!",
     "crumbs": [
       "The HOPE Study"
     ]
@@ -304,7 +244,7 @@
     "href": "hope.html#ethics",
     "title": "The HOPE Study",
     "section": "Ethics",
-    "text": "Ethics\nEthical approvals are currently under review as part of the study planning.",
+    "text": "Ethics\nThis study is approved by the Institutional Review Boards at the University of Pittsburgh, Yale University, and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee.",
     "crumbs": [
       "The HOPE Study"
     ]
@@ -314,7 +254,7 @@
     "href": "hope.html#assessments",
     "title": "The HOPE Study",
     "section": "Assessments",
-    "text": "Assessments\nTrained, bilingual Samoan research assistants will conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection will include sleep patterns, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood will also be collected.",
+    "text": "Assessments\nTrained, bilingual Samoan research assistants conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection includes sleep, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood are collected.",
     "crumbs": [
       "The HOPE Study"
     ]
@@ -344,7 +284,7 @@
     "href": "hope.html#related-publications",
     "title": "The HOPE Study",
     "section": "Related publications",
-    "text": "Related publications\nPending",
+    "text": "Related publications\nHeinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard B. Study Protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A Mother-Infant Study in American Samoa. medRxiv [Preprint]. 2025 Jun 6:2025.06.04.25329013. doi: 10.1101/2025.06.04.25329013. PMID: 40502564; PMCID: PMC12155048.",
     "crumbs": [
       "The HOPE Study"
     ]
@@ -524,7 +464,7 @@
     "href": "eetr.html#selected-publications",
     "title": "The EETR Study",
     "section": "Selected publications",
-    "text": "Selected publications\n\nTreble-Barna A, Patronick J, Uchani S, Marousis NC, Zigler CK, Fink EL, Kochanek PM, Conley YP, Yeates KO. Epigenetic Effects on Pediatric Traumatic Brain Injury Recovery (EETR): An Observational, Prospective, Longitudinal Concurrent Cohort Study Protocol. Front Neurol. 2020 Jun 12;11:460. doi: 10.3389/fneur.2020.00460. PMID: 32595586; PMCID: PMC7303323.\nTreble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA, Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks DE, Conley YP. Brain-derived neurotrophic factor (BDNF) epigenomic modifications and brain-related phenotypes in humans: A systematic review. Neurosci Biobehav Rev. 2023 Apr;147:105078. doi: 10.1016/j.neubiorev.2023.105078. Epub 2023 Feb 9. PMID: 36764636; PMCID: PMC10164361.",
+    "text": "Selected publications\n\nTreble-Barna A, Patronick J, Uchani S, Marousis NC, Zigler CK, Fink EL, Kochanek PM, Conley YP, Yeates KO. Epigenetic Effects on Pediatric Traumatic Brain Injury Recovery (EETR): An Observational, Prospective, Longitudinal Concurrent Cohort Study Protocol. Front Neurol. 2020 Jun 12;11:460. doi: 10.3389/fneur.2020.00460. PMID: 32595586; PMCID: PMC7303323.\nTreble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA, Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks DE, Conley YP. Brain-derived neurotrophic factor (BDNF) epigenomic modifications and brain-related phenotypes in humans: A systematic review. Neurosci Biobehav Rev. 2023 Apr;147:105078. doi: 10.1016/j.neubiorev.2023.105078. Epub 2023 Feb 9. PMID: 36764636; PMCID: PMC10164361.\nHeinsberg LW, Kesbhat A, Petersen B, Kaseman L, Stec Z, Anton N, Kochanek PM, Yeates KO, Weeks DE, Conley YP, Treble-Barna A. Differential DNA Methylation of the Brain-Derived Neurotrophic Factor Gene is Observed after Pediatric Traumatic Brain Injury Compared to Orthopedic Injury. medRxiv [Preprint]. 2025 Jun 16:2025.06.16.25329571. doi: 10.1101/2025.06.16.25329571. PMID: 40585108; PMCID: PMC12204258.",
     "crumbs": [
       "The EETR Study"
     ]
@@ -577,6 +517,66 @@
     "text": "Free R code!\nFrom my GitHub page\n\nR code to perform backward elimination with a bootstrap stability investigation to support valid post-selection inference\nA practical guide for conducting multivariate Bayesian analyses for analyzing correlated phenotypes in nursing research (repository link)\nR code to perform checks of dbGaP data set and data dictionary (repository link)\nR code to create interactive data visualizations using R shiny\nSimulation code detailing why post hoc power is not informative\n\n\n\n\n\nImage made using DALL-E",
     "crumbs": [
       "Training"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Heinsberg Lab",
+    "section": "",
+    "text": "Lab information",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#primary-investigator-pi",
+    "href": "index.html#primary-investigator-pi",
+    "title": "The Heinsberg Lab",
+    "section": "Primary Investigator (PI)",
+    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor of Nursing and Human Genetics\nHealth Promotion and Development\nUniversity of Pittsburgh\n440 Victoria Building\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#lab-purpose",
+    "href": "index.html#lab-purpose",
+    "title": "The Heinsberg Lab",
+    "section": "Lab purpose",
+    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy/women’s health study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\n\nAdditional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#affiliations",
+    "href": "index.html#affiliations",
+    "title": "The Heinsberg Lab",
+    "section": "Affiliations",
+    "text": "Affiliations\nObesity, Lifestyle, and Genetics Adaptations (OLaGa, “life” in Samoan) Study Group",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "The Heinsberg Lab",
+    "section": "Copyright",
+    "text": "Copyright\nCopyright information:\nCopyright 2024, Lacey Heinsberg. All Rights Reserved. License: GPL-2",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#acknolwedgements",
+    "href": "index.html#acknolwedgements",
+    "title": "The Heinsberg Lab",
+    "section": "Acknolwedgements",
+    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
+    "crumbs": [
+      "Lab information"
     ]
   }
 ]
