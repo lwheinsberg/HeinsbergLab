@@ -2,8 +2,12 @@
 
 # Recent lab publications {.unnumbered}
 
-1. Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.
+-   Heinsberg LW, Kesbhat A, Petersen B, Kaseman L, Stec Z, Anton N, Kochanek PM, Yeates KO, Weeks DE, Conley YP, Treble-Barna A. Differential DNA Methylation of the Brain-Derived Neurotrophic Factor Gene is Observed after Pediatric Traumatic Brain Injury Compared to Orthopedic Injury. medRxiv \[Preprint\]. 2025 Jun 16:2025.06.16.25329571. doi: 10.1101/2025.06.16.25329571. PMID: 40585108; PMCID: PMC12204258.
 
-2. Heinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. *Sleep Epidemiology*. https://doi.org/10.1016/j.sleepe.2024.100099.
+-   Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard B. Study Protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A Mother-Infant Study in American Samoa. medRxiv \[Preprint\]. 2025 Jun 6:2025.06.04.25329013. doi: 10.1101/2025.06.04.25329013. PMID: 40502564; PMCID: PMC12155048.
+
+-   Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2025 Apr;27(2):316-325. doi: 10.1177/10998004241292644. Epub 2024 Oct 16. PMID: 39413351. PMCID: In progress. 
+
+-   Heinsberg LW, Pomer A, Cade BE, Carlson JC, Naseri T, Reupena MS, Viali S, Weeks DE, McGarvey ST, Redline S, Hawley NL. Characterization of sleep apnea among a sample of adults from Samoa. Sleep Epidemiol. 2024 Dec;4:100099. doi: 10.1016/j.sleepe.2024.100099. Epub 2024 Sep 30. PMID: 39749350; PMCID: PMC11694763.
 
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/lacey.heinsberg.1/bibliography/public/)

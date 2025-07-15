@@ -6,7 +6,7 @@
 
 ## Overview
 
-The HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study will focus on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.
+The HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study focuses on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.
 
 ## Planned genomic data
 
@@ -18,19 +18,19 @@ The HOPE Study is a planned longitudinal, observational study of mother-infant d
 
 ## Eligibility
 
-The study will include mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.
+The study includes mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.
 
 ## Study Dates
 
-This study is currently in the planning phase.
+This study is in progress, recruitment phase! 
 
 ## Ethics
 
-Ethical approvals are currently under review as part of the study planning.
+This study is approved by the Institutional Review Boards at the University of Pittsburgh, Yale University, and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee. 
 
 ## Assessments
 
-Trained, bilingual Samoan research assistants will conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection will include sleep patterns, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood will also be collected.
+Trained, bilingual Samoan research assistants conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection includes sleep, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood are collected. 
 
 ## Team
 
@@ -43,4 +43,4 @@ Lacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna C
 
 ## Related publications
 
-Pending
+Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard B. Study Protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A Mother-Infant Study in American Samoa. medRxiv [Preprint]. 2025 Jun 6:2025.06.04.25329013. doi: 10.1101/2025.06.04.25329013. PMID: 40502564; PMCID: PMC12155048.

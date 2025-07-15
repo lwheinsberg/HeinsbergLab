@@ -27,11 +27,11 @@ To learn more about Quarto books visit: <https://quarto.org/docs/books/>.
 
 From my [GitHub page](https://github.com/lwheinsberg)
 
-1.  R code to perform [backward elimination with a bootstrap stability investigation](https://github.com/lwheinsberg/NUR_VarSel) to support valid post-selection inference 
+1.  R code to perform [backward elimination with a bootstrap stability investigation](https://github.com/lwheinsberg/NUR_VarSel) to support valid post-selection inference
 
 2.  A practical guide for conducting [multivariate Bayesian analyses](https://lwheinsberg.github.io/mvNUR/) for analyzing correlated phenotypes in nursing research (repository [link](https://github.com/lwheinsberg/mvNUR))
 
-3.  R code to perform checks of [dbGaP data set and data dictionary](https://lwheinsberg.github.io/dbGaPCheckup/index.html)  (repository [link](https://github.com/lwheinsberg/dbGaPCheckup))
+3.  R code to perform checks of [dbGaP data set and data dictionary](https://lwheinsberg.github.io/dbGaPCheckup/index.html) (repository [link](https://github.com/lwheinsberg/dbGaPCheckup))
 
 4.  R code to create [interactive data visualizations](https://github.com/lwheinsberg/NurShiny) using R shiny
 

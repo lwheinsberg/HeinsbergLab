@@ -8,11 +8,11 @@
 
 This longitudinal, observational study of mother-infant dyads aimed to identify factors in pregnancy and the early postpartum period that contribute to non-communicable diseases in Samoa.
 
-## Genomic data 
+## Genomic data
 
-* CREBRF rs373863828
-* Untargeted metabolomic data
-* PFAS data
+-   CREBRF rs373863828
+-   Untargeted metabolomic data
+-   PFAS data
 
 ## Eligibility
 
@@ -30,20 +30,18 @@ Informed consent was obtained from all mothers. The study was approved by the In
 
 Bilingual Samoan research assistants conducted assessments of the mother-infant dyads at 1 week, 2 months, and 4 months post-birth. Some infants were reassessed at 24 months post-birth. Data on behavior, environment, physical measurements, and biospecimens (saliva, dried blood spots) were collected for later analysis.
 
-## Team 
+## Team
 
-Nicola Hawley and Kendall Arslanian (MPI); Sakura Oyama (Ancillary Study PI); Lacey Heinsberg (Ancillary Study PI); Ulai T. Fidow, Rachel L. Duckham, Folla Unasa-Apelu,
-Christina Soti-Ulberg, Theresa Atanoa, Madison Rodman, Elise Claffey, Alysa Pomer (Co-Is)
+Nicola Hawley and Kendall Arslanian (MPI); Sakura Oyama (Ancillary Study PI); Lacey Heinsberg (Ancillary Study PI); Ulai T. Fidow, Rachel L. Duckham, Folla Unasa-Apelu, Christina Soti-Ulberg, Theresa Atanoa, Madison Rodman, Elise Claffey, Alysa Pomer (Co-Is)
 
-## Funding 
+## Funding
 
-* [K99HD107030](https://reporter.nih.gov/search/s9cX7Mg6vEiIAQOGIvCqog/project-details/10519784)
-* Sigma Nursing Honors Society 
-* Heilbrunn Family Center for Nursing Research 
+-   [K99HD107030](https://reporter.nih.gov/search/s9cX7Mg6vEiIAQOGIvCqog/project-details/10519784)
+-   Sigma Nursing Honors Society
+-   Heilbrunn Family Center for Nursing Research
 
-## Selected publications 
+## Selected publications
 
-1.	Arslanian KJ, Fidow UT, Atanoa T, Unasa-Apelu F, Naseri T, Wetzel AI, Pomer A, Duckham RL, McGarvey ST, Strayer JA, Kershaw EE, Weeks DE, Hawley NL. A missense variant in CREBRF, rs373863828, is associated with fat-free mass, not fat mass in Samoan infants. Int J Obes (Lond). 2021 Jan;45(1):45-55. doi: 10.1038/s41366-020-00659-4. Epub 2020 Sep 3. PMID: 32884101; PMCID: PMC8329753.
+1.  Arslanian KJ, Fidow UT, Atanoa T, Unasa-Apelu F, Naseri T, Wetzel AI, Pomer A, Duckham RL, McGarvey ST, Strayer JA, Kershaw EE, Weeks DE, Hawley NL. A missense variant in CREBRF, rs373863828, is associated with fat-free mass, not fat mass in Samoan infants. Int J Obes (Lond). 2021 Jan;45(1):45-55. doi: 10.1038/s41366-020-00659-4. Epub 2020 Sep 3. PMID: 32884101; PMCID: PMC8329753.
 
-2.	Heinsberg LW, Niu S, Arslanian KJ, Chen R, Bedi M, Unasa-Apelu F, Fidow UT, Soti-Ulberg C, Conley YP, Weeks DE, Ng CA, Hawley NL. Characterization of per- and polyfluoroalkyl substances (PFAS) concentrations in a community-based sample of infants from Samoa. Chemosphere. 2024 Apr;353:141527. doi: 10.1016/j.chemosphere.2024.141527. Epub 2024 Feb 22. PMID: 38401869; PMCID: PMC10997188.
-
+2.  Heinsberg LW, Niu S, Arslanian KJ, Chen R, Bedi M, Unasa-Apelu F, Fidow UT, Soti-Ulberg C, Conley YP, Weeks DE, Ng CA, Hawley NL. Characterization of per- and polyfluoroalkyl substances (PFAS) concentrations in a community-based sample of infants from Samoa. Chemosphere. 2024 Apr;353:141527. doi: 10.1016/j.chemosphere.2024.141527. Epub 2024 Feb 22. PMID: 38401869; PMCID: PMC10997188.
