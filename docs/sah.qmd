@@ -1,0 +1,46 @@
+# The aSAH Study {.unnumbered}
+
+**Aneurysm Subarachnoid Hemorrhage (aSAH)**
+
+## Overview
+
+The aSAH study is an observational, prospective, longitudinal cohort study of adults aged 18-80 years with aSAH, recruited from UPMC Presbyterian Hospital of Pittsburgh. Participants complete study visits acutely and at 3 and 12 months post-injury.
+
+## Genomic data
+
+-   Genome-wide CSF DNA methylation (n=260, longitudinal over 14 days post-aSAH)
+-   Genome-wide blood DNA methylation (n~80, 0-3 days post-aSAH)
+-   Affymetrix SNP Chip 6.0 genome-wide genotype data
+
+## Eligibility
+
+Adults aged 18-80 years with aSAH.
+
+## Study Dates
+
+2013 - present
+
+## Ethics
+
+The study received ethics approval from the University of Pittsburgh Institutional Review Board. Participants provide informed consent.
+
+## Assessments
+
+aSAH data collection is conducted at three time points: acute (prior to hospital discharge) and long-term (at 3, 6, and 12 months post-injury) with outcome metrics varying by time point. 
+
+## Team
+
+Lacey Heinsberg, Yvette Conley, Dan Weeks, Beth Crago 
+
+## Funding
+
+-   [F31NR017311](https://reporter.nih.gov/search/BkZyAPz7RkW7yc0R-JeD9Q/project-details/9764493#description)
+-   [R01NR013610](https://reporter.nih.gov/search/baSlNNWJIUeFScEHGhH_BQ/project-details/8677625#description)
+
+## Selected publications
+
+1.  Heinsberg LW, Weeks DE, Alexander SA, Minster RL, Sherwood PR, Poloyac SM, Deslouches S, Crago EA, Conley YP. Iron homeostasis pathway DNA methylation trajectories reveal a role for STEAP3 metalloreductase in patient outcomes after aneurysmal subarachnoid hemorrhage. Epigenetics Commun. 2021;1:4. doi: 10.1186/s43682-021-00003-5. Epub 2021 Dec 20. PMID: 35083470; PMCID: PMC8788201.
+
+2.  Heinsberg LW, Liu D, Shaffer JR, Weeks DE, Conley YP. Characterization of cerebrospinal fluid DNA methylation age during the acute recovery period following aneurysmal subarachnoid hemorrhage. Epigenetics Commun. 2021;1:2. doi: 10.1186/s43682-021-00002-6. Epub 2021 Dec 20. PMID: 35083469; PMCID: PMC8787331.
+
+3. Heinsberg LW, Alexander SA, Crago EA, Minster RL, Poloyac SM, Weeks DE, Conley YP. Genetic Variability in the Iron Homeostasis Pathway and Patient Outcomes After Aneurysmal Subarachnoid Hemorrhage. Neurocrit Care. 2020 Dec;33(3):749-758. doi: 10.1007/s12028-020-00961-z. PMID: 32246437; PMCID: PMC7541432.

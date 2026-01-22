@@ -19,6 +19,7 @@ book:
   - hope.qmd
   - grow.qmd
   - eetr.qmd
+  - sah.qmd
   - training.qmd
 format:
   html:

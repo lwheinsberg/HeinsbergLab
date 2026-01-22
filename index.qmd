@@ -6,6 +6,7 @@
 
 [Lacey W. Heinsberg, PhD, RN](https://www.nursing.pitt.edu/person/lacey-w-heinsberg)\
 Assistant Professor of Nursing and Human Genetics\
+Co-Director, Genetics of Patient Outcomes HUB\
 Health Promotion and Development\
 University of Pittsburgh\
 440 Victoria Building\
@@ -22,8 +23,9 @@ We use genetic- and genomic-based research approaches to study a variety of comp
 -   [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa
 -   [The GROW Study](./grow.qmd): A pregnancy/women's health study in American Samoa
 -   [The EETR Study](./eetr.qmd): A study of traumatic brain injury (TBI) outcomes in children
+-   [The aSAH Study](./sah.qmd): A study of aneurysmal subarachnoid hemorrhage (aSAH) outcomes in adults
 
-Additional populations of interest include adults with aneurysmal subarachnoid hemorrhage, TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.
+Additional populations of interest include adults with TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.
 
 ## Affiliations
 

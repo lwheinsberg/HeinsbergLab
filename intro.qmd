@@ -14,7 +14,7 @@ That said - even people with great self-care routines sometimes need to talk. If
 
 ### Flexible hours
 
-One of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you're self-motivated and *doing your best work*, your schedule is your own. However, I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.
+One of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you're self-motivated and *doing your best work*, your schedule is your own (unless you are working in the lab - then you schedule is Sandra's!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.
 
 ### Mothers and parents in science
 
@@ -22,7 +22,7 @@ I understand the challenges of balancing childcare and academic responsibilities
 
 ### Vacations
 
-I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. Plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
+I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
 
 -   [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)\
 -   [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)
@@ -63,17 +63,17 @@ Due to my own working style and work-life balance, I may send emails outside of 
 
 ### General tips
 
-Clear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), acknowledge it and respond to the request. Here are some templates to help:
+Clear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), please acknowledge it and respond to the request. Here are some templates to help:
 
 -   **Making a request**: I request that you do X by time Y.
 -   **Responding to a request**: (A) Yes, (B) No, or (C) A negotiation.
 -   **Making a complaint**: You agreed to do X by time Y, and you didn't do it. Here's how it impacted me. I request that you do X_2 by time Y_2.
 -   **Making an apology**: I agreed to do X by time Y, and I did not do it. Here's my understanding of how it impacted you. What can I do to make it up?
--   **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you...
+-   **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you ABC...
 
 ### Canceling or rescheduling meetings
 
-If you need to reschedule or cancel a meeting, please give 24 hours notice. While this isn't always feasible, do your best to communicate as promptly as possible.
+If you need to reschedule or cancel a meeting, please try your best to give 24 hours notice. While this isn't always feasible, do your best to communicate as promptly as possible.
 
 ## Research practices and professional development
 
@@ -122,7 +122,7 @@ In addition to the expectations above that apply to every lab member, students a
 
 ### Office hours
 
-I am on campus every Monday generally from 7:30 am until 6:30 pm. If my office door is open, please feel free to come in and chat! If my office door is closed, then that means that I am in another meeting. The other days of the week, I tend to work from home. Please always feel free to reach out to me via e-mail though and we can schedule something if you would like to talk.
+I am generally on campus Mondays and Wednesdays from 7:30 am until 3:00 pm. If my office door is open, please feel free to come in and chat! If my office door is closed, then that means that I am in another meeting. The other days of the week, I tend to work from home. Please always feel free to reach out to me via e-mail though and we can schedule something if you would like to talk.
 
 ## Acknolwedgements
 

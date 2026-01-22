@@ -6,7 +6,7 @@
 
 ## Overview
 
-The GROW Study is a planned longitudinal, observational study of pregnant women from American Samoa, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy.
+The GROW Study is an ongoing longitudinal, observational study of pregnant women from American Samoa, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy.
 
 ## Planned genomic data
 
@@ -14,11 +14,11 @@ The GROW Study is a planned longitudinal, observational study of pregnant women 
 
 ## Eligibility
 
-The study will include mothers who are over 18 years old, \<14 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 18 months post-birth.
+The study includes mothers who are over 18 years old, \<14 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 18 months post-birth.
 
 ## Study Dates
 
-This study is currently in the planning phase.
+2025 - present
 
 ## Ethics
 
@@ -34,8 +34,8 @@ Nicola Hawley, Angie Bengtson, and Erin Kershaw (MPIs); Bethel Muasau-Howard, La
 
 ## Funding
 
-R01DK139672
+-   [R01DK139672](https://reporter.nih.gov/search/2-ebOTo4jEax_yQuT8J_RA/project-details/11195056#description)
 
-## Related publications
+## Selected publications
 
-Pending
+-   Carson DJ, Faasalele-Savusa K, Loia M, Tasele S, Iosefa E, Tupuola P, Sanchez KC, Kaabi O, Valencia RK, Rossillo MG, Murthy N, Akinade T, Heinsberg LW, Carlson JC, Flannery CA, McGarvey ST, Wood AN, Anesi S, Tofaeono V, Desobry K, Muasau-Howard BT, Bengtson AM, Kershaw EE, Hawley NL. Gestational Diabetes - Risk Factors and Outcomes among American Samoan Women (GROW): A Longitudinal Cohort Study Protocol. medRxiv [Preprint]. 2025 Oct 27:2025.10.24.25338761. doi: 10.1101/2025.10.24.25338761. PMID: 41282747; PMCID: PMC12636633.

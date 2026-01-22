@@ -37,6 +37,8 @@ From my [GitHub page](https://github.com/lwheinsberg)
 
 5.  Simulation code detailing why [post hoc power is not informative](https://github.com/lwheinsberg/PostHocPower)
 
+6. Tutorial with code - practical example demonstrating how to design, preregister, and execute reproducible statistical analyses — [using synthetic data and human–AI partnership workflows](https://github.com/lwheinsberg/ISONG2025).
+
 <p align="center">
 
 <img src="R_logo.png" width="400"/>

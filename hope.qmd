@@ -22,15 +22,15 @@ The study includes mothers who are over 18 years old, at least 35 weeks pregnant
 
 ## Study Dates
 
-This study is in progress, recruitment phase! 
+2025 - present
 
 ## Ethics
 
-This study is approved by the Institutional Review Boards at the University of Pittsburgh, Yale University, and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee. 
+This study is approved by the Institutional Review Boards at the University of Pittsburgh, Yale University, and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee.
 
 ## Assessments
 
-Trained, bilingual Samoan research assistants conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection includes sleep, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood are collected. 
+Trained, bilingual Samoan research assistants conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection includes sleep, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood are collected.
 
 ## Team
 
@@ -41,6 +41,6 @@ Lacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna C
 -   [R00HD107030](https://reporter.nih.gov/search/s9cX7Mg6vEiIAQOGIvCqog/project-details/11119329)
 -   Pitt Nursing
 
-## Related publications
+## Selected publications
 
-Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard B. Study Protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A Mother-Infant Study in American Samoa. medRxiv [Preprint]. 2025 Jun 6:2025.06.04.25329013. doi: 10.1101/2025.06.04.25329013. PMID: 40502564; PMCID: PMC12155048.
+-   Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard BT. Study protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A mother-infant study in American Samoa. PLoS One. 2025 Sep 15;20(9):e0326644. doi: 10.1371/journal.pone.0326644. PMID: 40952996; PMCID: PMC12435730.

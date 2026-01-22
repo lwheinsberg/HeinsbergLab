@@ -2,9 +2,15 @@
 
 # Recent lab publications {.unnumbered}
 
--   Heinsberg LW, Kesbhat A, Petersen B, Kaseman L, Stec Z, Anton N, Kochanek PM, Yeates KO, Weeks DE, Conley YP, Treble-Barna A. Differential DNA Methylation of the Brain-Derived Neurotrophic Factor Gene is Observed after Pediatric Traumatic Brain Injury Compared to Orthopedic Injury. medRxiv \[Preprint\]. 2025 Jun 16:2025.06.16.25329571. doi: 10.1101/2025.06.16.25329571. PMID: 40585108; PMCID: PMC12204258.
+-   Heinsberg LW, Kesbhat A, Petersen B, Kaseman L, Stec Z, Anton N, Kochanek PM, Yeates KO, Weeks DE, Conley YP, Treble-Barna A. Differential DNA Methylation of the Brain-Derived Neurotrophic Factor Gene is Observed after Pediatric Traumatic Brain Injury Compared with Orthopedic Injury. J Neurotrauma. 2025 Dec 9. doi: 10.1177/08977151251400737. Epub ahead of print. PMID: 41376515.
 
--   Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard B. Study Protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A Mother-Infant Study in American Samoa. medRxiv \[Preprint\]. 2025 Jun 6:2025.06.04.25329013. doi: 10.1101/2025.06.04.25329013. PMID: 40502564; PMCID: PMC12155048.
+-   Carson DJ, Faasalele-Savusa K, Loia M, Tasele S, Iosefa E, Tupuola P, Sanchez KC, Kaabi O, Valencia RK, Rossillo MG, Murthy N, Akinade T, Heinsberg LW, Carlson JC, Flannery CA, McGarvey ST, Wood AN, Anesi S, Tofaeono V, Desobry K, Muasau-Howard BT, Bengtson AM, Kershaw EE, Hawley NL. Gestational Diabetes - Risk Factors and Outcomes among American Samoan Women (GROW): A Longitudinal Cohort Study Protocol. medRxiv [Preprint]. 2025 Oct 27:2025.10.24.25338761. doi: 10.1101/2025.10.24.25338761. PMID: 41282747; PMCID: PMC12636633.
+
+-   Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard BT. Study protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A mother-infant study in American Samoa. PLoS One. 2025 Sep 15;20(9):e0326644. doi: 10.1371/journal.pone.0326644. PMID: 40952996; PMCID: PMC12435730.
+
+-    Ray M, Heinsberg LW, McNeil RB, Grobman WA, Lueth A, Silver RM, Bairey Merz CN, Levine LD, Yee LM, Weeks DE, Conley YP, Catov JM. Allostatic Load Mediates Associations Between Race and Ethnicity and Hypertensive Disorders of Pregnancy. Obstet Gynecol. 2026 Feb 1;147(2):242-254. doi: 10.1097/AOG.0000000000006062. Epub 2025 Sep 4. PMID: 40907023; PMCID: PMC12412905.
+
+-   Rivara AC, Heinsberg LW, Carlson JC, Pomer A, Naseri T, Reupena MS, Choy CC, Wang D, Kershaw EE, Viali S, McGarvey ST, Hawley NL. Psychosocial correlates of HbA1c among adult Samoans without diabetes. PLOS Ment Health. 2025;2(2):e0000196. doi: 10.1371/journal.pmen.0000196. Epub 2025 Feb 28. PMID: 41522256; PMCID: PMC12781966.
 
 -   Heinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2025 Apr;27(2):316-325. doi: 10.1177/10998004241292644. Epub 2024 Oct 16. PMID: 39413351. PMCID: In progress. 
 
