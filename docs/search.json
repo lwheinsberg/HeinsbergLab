@@ -1,70 +1,10 @@
 [
   {
-    "objectID": "training.html",
-    "href": "training.html",
-    "title": "Training",
-    "section": "",
-    "text": "R/Unix basics",
-    "crumbs": [
-      "Training"
-    ]
-  },
-  {
-    "objectID": "training.html#runix-basics",
-    "href": "training.html#runix-basics",
-    "title": "Training",
-    "section": "",
-    "text": "https://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
-    "crumbs": [
-      "Training"
-    ]
-  },
-  {
-    "objectID": "training.html#quarto-books",
-    "href": "training.html#quarto-books",
-    "title": "Training",
-    "section": "Quarto books",
-    "text": "Quarto books\nTo learn more about Quarto books visit: https://quarto.org/docs/books/.",
-    "crumbs": [
-      "Training"
-    ]
-  },
-  {
-    "objectID": "training.html#tutorial-methodology-papers",
-    "href": "training.html#tutorial-methodology-papers",
-    "title": "Training",
-    "section": "Tutorial / methodology papers",
-    "text": "Tutorial / methodology papers\n\nHeinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.\nHeinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.\nHeinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.\nHeinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.",
-    "crumbs": [
-      "Training"
-    ]
-  },
-  {
-    "objectID": "training.html#free-r-code",
-    "href": "training.html#free-r-code",
-    "title": "Training",
-    "section": "Free R code!",
-    "text": "Free R code!\nFrom my GitHub page\n\nR code to perform backward elimination with a bootstrap stability investigation to support valid post-selection inference\nA practical guide for conducting multivariate Bayesian analyses for analyzing correlated phenotypes in nursing research (repository link)\nR code to perform checks of dbGaP data set and data dictionary (repository link)\nR code to create interactive data visualizations using R shiny\nSimulation code detailing why post hoc power is not informative\nTutorial with code - practical example demonstrating how to design, preregister, and execute reproducible statistical analyses — using synthetic data and human–AI partnership workflows.\n\n\n\n\n\nImage made using DALL-E",
-    "crumbs": [
-      "Training"
-    ]
-  },
-  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "Lab expectations",
     "section": "",
-    "text": "Well-being and work-life balance",
-    "crumbs": [
-      "Lab expectations"
-    ]
-  },
-  {
-    "objectID": "intro.html#well-being-and-work-life-balance",
-    "href": "intro.html#well-being-and-work-life-balance",
-    "title": "Lab expectations",
-    "section": "",
-    "text": "Well-being first\nAcademic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.\nFor example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it’s mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son’s laugh, or the feel of my cat’s fur. These moments help me remember that, even when the grant isn’t funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the “bad” things that happen (that sometimes turn out to be good things) don’t change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.\nThat said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.\n\n\nFlexible hours\nOne of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you’re self-motivated and doing your best work, your schedule is your own (unless you are working in the lab - then you schedule is Sandra’s!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.\n\n\nMothers and parents in science\nI understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.\n\n\nVacations\nI encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you’ll be away, and ensure your time off doesn’t clash with required coursework. For detailed policies, refer to:\n\nStaff vacation policy\n\nPostdoc vacation policy",
+    "text": "Inclusivity and lab culture",
     "crumbs": [
       "Lab expectations"
     ]
@@ -73,8 +13,8 @@
     "objectID": "intro.html#inclusivity-and-lab-culture",
     "href": "intro.html#inclusivity-and-lab-culture",
     "title": "Lab expectations",
-    "section": "Inclusivity and lab culture",
-    "text": "Inclusivity and lab culture\n\nIdentity and authenticity\nI encourage you to share your identity and be authentic. While we maintain respect and professionalism, I acknowledge that academia has centuries of norms that can make people feel excluded. This is a safe space to be yourself.\n\n\nHarassment-free environment\nOur lab is inclusive and welcoming. We do not tolerate discrimination of any kind including that based on race, citizenship, religion, political affiliations, gender identity, sexual orientation, disability, pregnancy, appearance, or any other attributes. Microaggressions and hostility have no place here. We all need to be mindful of (and do the work to reduce) our implicit biases. We are united by our passion for science.\n\nCampus policy\n\nCampus and community resources\n\n\n\nValues\nI encourage everyone to assess their values and evaluate whether they are living those values. Some of our lab values include:\n\nObjectivity\nAuthenticity\nCommunication\nStewardship\nTransparency / Trust\nGenerosity\n\nUnderstanding both your personal values and the values of the lab is essential for building a cohesive, effective team. When individuals align their actions with their core values, they bring authenticity to their work, which fosters trust and open communication within the group. A shared commitment to values like objectivity and transparency ensures that we approach our scientific work with integrity, providing a solid foundation for collaborative research.\nBy recognizing and appreciating the diversity of values within the team, we also promote an environment of generosity and stewardship, where each member feels supported and empowered to contribute their best work. Ultimately, aligning personal and collective values helps us move toward a common goal, ensuring that our lab’s culture supports both individual fulfillment and the success of our scientific endeavors.",
+    "section": "",
+    "text": "Identity and authenticity\nI encourage you to share your identity and be authentic. While we maintain respect and professionalism, I acknowledge that academia has centuries of norms that can make people feel excluded. This is a safe space to be yourself.\n\n\nHarassment-free environment\nOur lab is inclusive and welcoming. We do not tolerate discrimination of any kind including that based on race, citizenship, religion, political affiliations, gender identity, sexual orientation, disability, pregnancy, appearance, or any other attributes. Microaggressions and hostility have no place here. We all need to be mindful of (and do the work to reduce) our implicit biases. We are united by our passion for science.\n\nCampus policy\n\nCampus and community resources\n\n\n\nValues\nI encourage everyone to assess their values and evaluate whether they are living those values. Some of our lab values include:\n\nObjectivity\nAuthenticity\nCommunication\nStewardship\nTransparency / Trust\nGenerosity\n\nUnderstanding both your personal values and the values of the lab is essential for building a cohesive, effective team. When individuals align their actions with their core values, they bring authenticity to their work, which fosters trust and open communication within the group. A shared commitment to values like objectivity and transparency ensures that we approach our scientific work with integrity, providing a solid foundation for collaborative research.\nBy recognizing and appreciating the diversity of values within the team, we also promote an environment of generosity and stewardship, where each member feels supported and empowered to contribute their best work. Ultimately, aligning personal and collective values helps us move toward a common goal, ensuring that our lab’s culture supports both individual fulfillment and the success of our scientific endeavors.",
     "crumbs": [
       "Lab expectations"
     ]
@@ -84,7 +24,17 @@
     "href": "intro.html#communicaton-expectations",
     "title": "Lab expectations",
     "section": "Communicaton expectations",
-    "text": "Communicaton expectations\n\nE-mails\nDue to my own working style and work-life balance, I may send emails outside of what is considered “regular” working hours. I do not expect a response from you outside of your typical working schedule. Though there may be occasional exceptions if we are working close to a deadline. In those instances, I will let you know ahead of time the possibility of breaking this expectation.\n\n\nGeneral tips\nClear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), please acknowledge it and respond to the request. Here are some templates to help:\n\nMaking a request: I request that you do X by time Y.\nResponding to a request: (A) Yes, (B) No, or (C) A negotiation.\nMaking a complaint: You agreed to do X by time Y, and you didn’t do it. Here’s how it impacted me. I request that you do X_2 by time Y_2.\nMaking an apology: I agreed to do X by time Y, and I did not do it. Here’s my understanding of how it impacted you. What can I do to make it up?\nGiving feedback: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you ABC…\n\n\n\nCanceling or rescheduling meetings\nIf you need to reschedule or cancel a meeting, please try your best to give 24 hours notice. While this isn’t always feasible, do your best to communicate as promptly as possible.",
+    "text": "Communicaton expectations\n\nMeetings\nPlease come prepared\nI am here to support you and your development. Our meetings are intended to support your growth, but you are expected to take ownership of your career development, and these meetings should generally be led by you. This means being thoughtful about what you want to learn, where you want to grow, and what support you need from me.\nPlease come prepared with a brief agenda, questions, updates, or topics you would like to discuss. Speaking up about your goals, challenges, and interests is an important part of your professional development, and these meetings are a space for you to do that. Taking ownership of the meeting helps ensure our time is focused on what matters most to you.\nIf you do not have anything you would like to discuss at a given meeting, it is completely fine to cancel. Just let me know as early as possible so we can both use that time effectively.\nCanceling or rescheduling meetings\nIf you need to reschedule or cancel a meeting, please try your best to give 24 hours notice. While this isn’t always feasible, do your best to communicate as promptly as possible.\n\n\nE-mails\nDue to my own working style and work-life balance, I may send emails outside of what is considered “regular” working hours. I do not expect a response from you outside of your typical working schedule. Though there may be occasional exceptions if we are working close to a deadline. In those instances, I will let you know ahead of time the possibility of breaking this expectation.\n\n\nGeneral tips\nClear and respectful communication is key. When you need something, be clear about what, when, and why. When you receive an e-mail (especially one with a request), please acknowledge it and respond to the request. Here are some templates to help:\n\nMaking a request: I request that you do X by time Y.\nResponding to a request: (A) Yes, (B) No, or (C) A negotiation.\nMaking a complaint: You agreed to do X by time Y, and you didn’t do it. Here’s how it impacted me. I request that you do X_2 by time Y_2.\nMaking an apology: I agreed to do X by time Y, and I did not do it. Here’s my understanding of how it impacted you. What can I do to make it up?\nGiving feedback: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you ABC…",
+    "crumbs": [
+      "Lab expectations"
+    ]
+  },
+  {
+    "objectID": "intro.html#well-being-and-work-life-balance",
+    "href": "intro.html#well-being-and-work-life-balance",
+    "title": "Lab expectations",
+    "section": "Well-being and work-life balance",
+    "text": "Well-being and work-life balance\n\nWell-being\nAcademic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.\nFor example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it’s mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son’s laugh, or the feel of my cat’s fur. These moments help me remember that, even when the grant isn’t funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the “bad” things that happen (that sometimes turn out to be good things) don’t change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.\nThat said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.\n\n\nFlexible hours\nOne of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you’re self-motivated and doing your best work, your schedule is your own (unless you are working in the lab - then you schedule is Sandra’s!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.\n\n\nMothers and parents in science\nI understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.\n\n\nVacations\nI encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you’ll be away, and ensure your time off doesn’t clash with required coursework. For detailed policies, refer to:\n\nStaff vacation policy\n\nPostdoc vacation policy",
     "crumbs": [
       "Lab expectations"
     ]
@@ -520,66 +470,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Heinsberg Lab",
-    "section": "",
-    "text": "Lab information",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#primary-investigator-pi",
-    "href": "index.html#primary-investigator-pi",
-    "title": "The Heinsberg Lab",
-    "section": "Primary Investigator (PI)",
-    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor of Nursing and Human Genetics\nCo-Director, Genetics of Patient Outcomes HUB\nHealth Promotion and Development\nUniversity of Pittsburgh\n440 Victoria Building\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#lab-purpose",
-    "href": "index.html#lab-purpose",
-    "title": "The Heinsberg Lab",
-    "section": "Lab purpose",
-    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy/women’s health study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\nThe aSAH Study: A study of aneurysmal subarachnoid hemorrhage (aSAH) outcomes in adults\n\nAdditional populations of interest include adults with TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#affiliations",
-    "href": "index.html#affiliations",
-    "title": "The Heinsberg Lab",
-    "section": "Affiliations",
-    "text": "Affiliations\nObesity, Lifestyle, and Genetics Adaptations (OLaGa, “life” in Samoan) Study Group",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#copyright",
-    "href": "index.html#copyright",
-    "title": "The Heinsberg Lab",
-    "section": "Copyright",
-    "text": "Copyright\nCopyright information:\nCopyright 2024, Lacey Heinsberg. All Rights Reserved. License: GPL-2",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
-    "objectID": "index.html#acknolwedgements",
-    "href": "index.html#acknolwedgements",
-    "title": "The Heinsberg Lab",
-    "section": "Acknolwedgements",
-    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
-    "crumbs": [
-      "Lab information"
-    ]
-  },
-  {
     "objectID": "sah.html",
     "href": "sah.html",
     "title": "The aSAH Study",
@@ -667,6 +557,56 @@
     "text": "Selected publications\n\nHeinsberg LW, Weeks DE, Alexander SA, Minster RL, Sherwood PR, Poloyac SM, Deslouches S, Crago EA, Conley YP. Iron homeostasis pathway DNA methylation trajectories reveal a role for STEAP3 metalloreductase in patient outcomes after aneurysmal subarachnoid hemorrhage. Epigenetics Commun. 2021;1:4. doi: 10.1186/s43682-021-00003-5. Epub 2021 Dec 20. PMID: 35083470; PMCID: PMC8788201.\nHeinsberg LW, Liu D, Shaffer JR, Weeks DE, Conley YP. Characterization of cerebrospinal fluid DNA methylation age during the acute recovery period following aneurysmal subarachnoid hemorrhage. Epigenetics Commun. 2021;1:2. doi: 10.1186/s43682-021-00002-6. Epub 2021 Dec 20. PMID: 35083469; PMCID: PMC8787331.\nHeinsberg LW, Alexander SA, Crago EA, Minster RL, Poloyac SM, Weeks DE, Conley YP. Genetic Variability in the Iron Homeostasis Pathway and Patient Outcomes After Aneurysmal Subarachnoid Hemorrhage. Neurocrit Care. 2020 Dec;33(3):749-758. doi: 10.1007/s12028-020-00961-z. PMID: 32246437; PMCID: PMC7541432.",
     "crumbs": [
       "The aSAH Study"
+    ]
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
+    "section": "",
+    "text": "R/Unix basics",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#runix-basics",
+    "href": "training.html#runix-basics",
+    "title": "Training",
+    "section": "",
+    "text": "https://danieleweeks.github.io/HuGen2071/preparation.html\nhttps://github.com/ajwills72/rminr\nhttps://www.andywills.info/rminr/#beginners\nhttps://www.youtube.com/watch?v=IrDUcdpPmdI",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#quarto-books",
+    "href": "training.html#quarto-books",
+    "title": "Training",
+    "section": "Quarto books",
+    "text": "Quarto books\nTo learn more about Quarto books visit: https://quarto.org/docs/books/.",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#tutorial-methodology-papers",
+    "href": "training.html#tutorial-methodology-papers",
+    "title": "Training",
+    "section": "Tutorial / methodology papers",
+    "text": "Tutorial / methodology papers\n\nHeinsberg LW, Davis TS, Maher D, Bender CM, Conley YP, Weeks DE. Multivariate Bayesian Analyses in Nursing Research: An Introductory Guide. Biol Res Nurs. 2024 Oct 16:10998004241292644. doi: 10.1177/10998004241292644. Epub ahead of print. PMID: 39413351.\nHeinsberg LW, Weeks DE. dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files. BMC Bioinformatics. 2023 Mar 3;24(1):77. doi: 10.1186/s12859-023-05200-8. PMID: 36869285; PMCID: PMC9985192.\nHeinsberg LW, Koleck TA, Ray M, Weeks DE, Conley YP. Advancing Nursing Research Through Interactive Data Visualization With R Shiny. Biol Res Nurs. 2023 Jan;25(1):107-116. doi: 10.1177/10998004221121109. Epub 2022 Aug 26. PMID: 36029021; PMCID: PMC9900251.\nHeinsberg LW, Weeks DE. Post hoc power is not informative. Genet Epidemiol. 2022 Oct;46(7):390-394. doi: 10.1002/gepi.22464. Epub 2022 Jun 1. PMID: 35642557; PMCID: PMC9452450.\nHeinsberg LW, Conley YP. Omics for Nurse Scientists Conducting Environmental Health Research. Annu Rev Nurs Res. 2019 Dec 23;38(1):35-52. doi: 10.1891/0739-6686.38.35. PMID: 32102954; PMCID: PMC7100388.",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#free-r-code",
+    "href": "training.html#free-r-code",
+    "title": "Training",
+    "section": "Free R code!",
+    "text": "Free R code!\nFrom my GitHub page\n\nR code to perform backward elimination with a bootstrap stability investigation to support valid post-selection inference\nA practical guide for conducting multivariate Bayesian analyses for analyzing correlated phenotypes in nursing research (repository link)\nR code to perform checks of dbGaP data set and data dictionary (repository link)\nR code to create interactive data visualizations using R shiny\nSimulation code detailing why post hoc power is not informative\nTutorial with code - practical example demonstrating how to design, preregister, and execute reproducible statistical analyses — using synthetic data and human–AI partnership workflows.\n\n\n\n\n\nImage made using DALL-E",
+    "crumbs": [
+      "Training"
     ]
   }
 ]

@@ -2,31 +2,6 @@
 
 Welcome to **The Heinsberg Lab**! The purpose of this page is to provide general guidelines to help us build an equitable, inclusive, and respectful lab culture that is both friendly and productive.
 
-## Well-being and work-life balance
-
-### Well-being first
-
-Academic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.
-
-For example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it's mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son's laugh, or the feel of my cat's fur. These moments help me remember that, even when the grant isn't funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the "bad" things that happen (that sometimes turn out to be good things) don't change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.
-
-That said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.
-
-### Flexible hours
-
-One of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you're self-motivated and *doing your best work*, your schedule is your own (unless you are working in the lab - then you schedule is Sandra's!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.
-
-### Mothers and parents in science
-
-I understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.
-
-### Vacations
-
-I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
-
--   [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)\
--   [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)
-
 ## Inclusivity and lab culture
 
 ### Identity and authenticity
@@ -57,6 +32,20 @@ By recognizing and appreciating the diversity of values within the team, we also
 
 ## Communicaton expectations
 
+### Meetings
+
+**Please come prepared**
+
+I am here to support you and your development. Our meetings are intended to support your growth, but you are expected to take ownership of your career development, and **these meetings should generally be led by you**. This means being thoughtful about what you want to learn, where you want to grow, and what support you need from me.
+
+Please come prepared with a brief agenda, questions, updates, or topics you would like to discuss. Speaking up about your goals, challenges, and interests is an important part of your professional development, and these meetings are a space for you to do that. Taking ownership of the meeting helps ensure our time is focused on what matters most to you.
+
+If you do not have anything you would like to discuss at a given meeting, it is completely fine to cancel. Just let me know as early as possible so we can both use that time effectively.
+
+**Canceling or rescheduling meetings**
+
+If you need to reschedule or cancel a meeting, please try your best to give 24 hours notice. While this isn't always feasible, do your best to communicate as promptly as possible.
+
 ### E-mails
 
 Due to my own working style and work-life balance, I may send emails outside of what is considered "regular" working hours. I do not expect a response from you outside of your typical working schedule. Though there may be occasional exceptions if we are working close to a deadline. In those instances, I will let you know ahead of time the possibility of breaking this expectation.
@@ -71,9 +60,30 @@ Clear and respectful communication is key. When you need something, be clear abo
 -   **Making an apology**: I agreed to do X by time Y, and I did not do it. Here's my understanding of how it impacted you. What can I do to make it up?
 -   **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you ABC...
 
-### Canceling or rescheduling meetings
+## Well-being and work-life balance
 
-If you need to reschedule or cancel a meeting, please try your best to give 24 hours notice. While this isn't always feasible, do your best to communicate as promptly as possible.
+### Well-being
+
+Academic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.
+
+For example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it's mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son's laugh, or the feel of my cat's fur. These moments help me remember that, even when the grant isn't funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the "bad" things that happen (that sometimes turn out to be good things) don't change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.
+
+That said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.
+
+### Flexible hours
+
+One of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you're self-motivated and *doing your best work*, your schedule is your own (unless you are working in the lab - then you schedule is Sandra's!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.
+
+### Mothers and parents in science
+
+I understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.
+
+### Vacations
+
+I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
+
+-   [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)\
+-   [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)
 
 ## Research practices and professional development
 
