@@ -60,31 +60,6 @@ Clear and respectful communication is key. When you need something, be clear abo
 -   **Making an apology**: I agreed to do X by time Y, and I did not do it. Here's my understanding of how it impacted you. What can I do to make it up?
 -   **Giving feedback**: When you do X, I interpret Y, which makes me feel Z. Therefore, I request that you ABC...
 
-## Well-being and work-life balance
-
-### Well-being
-
-Academic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.
-
-For example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it's mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son's laugh, or the feel of my cat's fur. These moments help me remember that, even when the grant isn't funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the "bad" things that happen (that sometimes turn out to be good things) don't change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.
-
-That said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.
-
-### Flexible hours
-
-One of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you're self-motivated and *doing your best work*, your schedule is your own (unless you are working in the lab - then you schedule is Sandra's!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.
-
-### Mothers and parents in science
-
-I understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.
-
-### Vacations
-
-I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
-
--   [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)\
--   [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)
-
 ## Research practices and professional development
 
 ### Participation
@@ -116,7 +91,13 @@ Everyone should look for funding opportunities. PhD students should aim for an F
 
 ### Publish and present
 
-Everyone is encouraged to publish their findings and present at conferences. Sharing our work with the broader scientific community is crucial for advancing knowledge and building your professional reputation. Whether it's submitting papers to peer-reviewed journals or giving talks at conferences, these activities are vital components of your academic career. We will support each other in preparing manuscripts, practicing presentations, and navigating the submission process.
+**Everyone** is encouraged to publish their findings and present at conferences. Sharing our work with the broader scientific community is crucial for advancing knowledge and building your professional reputation. Whether it's submitting papers to peer-reviewed journals or giving talks at conferences, these activities are vital components of your academic career. We will support each other in preparing manuscripts, practicing presentations, and navigating the submission process.
+
+### URMP students
+
+If you are a URMP student, it is my expectation that you only report hours that you actually work, rather than submitting a blanket number of hours each week (e.g., 5 hours/week). Hours must be submitted weekly.
+
+It is also my understanding that URMP students are not permitted to work during holiday breaks. Please plan your work and time reporting accordingly.
 
 ## Expectations of the PI
 
@@ -133,6 +114,31 @@ In addition to the expectations above that apply to every lab member, students a
 ### Office hours
 
 I am generally on campus Mondays and Wednesdays from 7:30 am until 3:00 pm. If my office door is open, please feel free to come in and chat! If my office door is closed, then that means that I am in another meeting. The other days of the week, I tend to work from home. Please always feel free to reach out to me via e-mail though and we can schedule something if you would like to talk.
+
+## Well-being and work-life balance
+
+### Well-being
+
+Academic life can be challenging. We all experience imposter syndrome, overwhelming deadlines, and repeated setbacks. Everything takes ten times longer than we think it will, and there never seems to be an end to the work. However, your health and well-being, both mentally and physically, are more important than your research. Make sure to set aside some time off working hours to do things you enjoy.
+
+For example, I love running, biking, CrossFit, cross-country skiing, and hanging out with my loved ones. I also try to have a self-care routine. This looks different for everyone. For me, it's mindful breathing and reflecting on tiny moments of joy, like the funny little squirrel outside my window, my son's laugh, or the feel of my cat's fur. These moments help me remember that, even when the grant isn't funded, the paper is rejected, and data collection is delayed (again), the things that I love most in this world are still there, and the "bad" things that happen (that sometimes turn out to be good things) don't change the way the sun feels on my skin, the way the flowers smell, or the the joy I feel on adventure days with my family.
+
+That said - even people with great self-care routines sometimes need to talk. If you need to discuss any issues, my door is open. We can work together to adjust goals and come up with plans to help you navigate your situation. My role is to advise and mentor, not evaluate.
+
+### Flexible hours
+
+One of the perks of academic life is flexibility. Everyone has different lifestyles, work habits, and needs for work-life balance. As long as you're self-motivated and *doing your best work*, your schedule is your own (unless you are working in the lab - then you schedule is Sandra's!). I expect that you will not take advantage of this flexibility, and that we will make the most of our meetings to collaborate, share ideas, and support each other.
+
+### Mothers and parents in science
+
+I understand the challenges of balancing childcare and academic responsibilities. Flexibility is key, and our lab supports parents by allowing them to adjust their schedules as needed. However, transparency is important. Please keep me informed of any changes to your availability so we can plan accordingly.
+
+### Vacations
+
+I encourage you to take advantage of our flexible vacation schedule. Postdoc and staff vacation policies are linked below. For students, I recommend taking at least 3-4 weeks vacation time a year. It is important that we all take time away and detached from this work so we can recharge our batteries. I just ask that you plan early, inform me when you'll be away, and ensure your time off doesn't clash with required coursework. For detailed policies, refer to:
+
+-   [Staff vacation policy](https://www.hr.pitt.edu/current-employees/benefits/time-off)\
+-   [Postdoc vacation policy](https://www.postdoc.pitt.edu/postdoctoral-classifications-and-benefits)
 
 ## Acknolwedgements
 
