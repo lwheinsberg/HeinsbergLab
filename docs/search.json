@@ -1,5 +1,65 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Heinsberg Lab",
+    "section": "",
+    "text": "Lab information",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#primary-investigator-pi",
+    "href": "index.html#primary-investigator-pi",
+    "title": "The Heinsberg Lab",
+    "section": "Primary Investigator (PI)",
+    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor of Nursing and Human Genetics\nCo-Director, Genetics of Patient Outcomes HUB\nHealth Promotion and Development\nUniversity of Pittsburgh\n440 Victoria Building\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#lab-purpose",
+    "href": "index.html#lab-purpose",
+    "title": "The Heinsberg Lab",
+    "section": "Lab purpose",
+    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy/women’s health study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\nThe aSAH Study: A study of aneurysmal subarachnoid hemorrhage (aSAH) outcomes in adults\n\nAdditional populations of interest include adults with TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#affiliations",
+    "href": "index.html#affiliations",
+    "title": "The Heinsberg Lab",
+    "section": "Affiliations",
+    "text": "Affiliations\nObesity, Lifestyle, and Genetics Adaptations (OLaGa, “life” in Samoan) Study Group",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "The Heinsberg Lab",
+    "section": "Copyright",
+    "text": "Copyright\nCopyright information:\nCopyright 2024, Lacey Heinsberg. All Rights Reserved. License: GPL-2",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
+    "objectID": "index.html#acknolwedgements",
+    "href": "index.html#acknolwedgements",
+    "title": "The Heinsberg Lab",
+    "section": "Acknolwedgements",
+    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
+    "crumbs": [
+      "Lab information"
+    ]
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "Lab expectations",
