@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
   resources:
   - webr-serviceworker.js
   - webr-worker.js
@@ -18,7 +19,7 @@ book:
   - foafoaga.qmd  
   - hope.qmd
   - grow.qmd
-  - grow_together.qmd
+  - growtogether.qmd
   - eetr.qmd
   - sah.qmd
   - training.qmd
