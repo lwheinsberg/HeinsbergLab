@@ -10,7 +10,7 @@ The GROW Study is an ongoing longitudinal, observational study of pregnant women
 
 ## Planned genomic data
 
--   CREBRF rs373863828
+- CREBRF rs373863828
 
 ## Eligibility
 
@@ -34,8 +34,8 @@ Nicola Hawley, Angie Bengtson, and Erin Kershaw (MPIs); Bethel Muasau-Howard, La
 
 ## Funding
 
--   [R01DK139672](https://reporter.nih.gov/search/2-ebOTo4jEax_yQuT8J_RA/project-details/11195056#description)
+- [R01DK139672](https://reporter.nih.gov/search/2-ebOTo4jEax_yQuT8J_RA/project-details/11195056#description)
 
 ## Selected publications
 
--   Carson DJ, Faasalele-Savusa K, Loia M, Tasele S, Iosefa E, Tupuola P, Sanchez KC, Kaabi O, Valencia RK, Rossillo MG, Murthy N, Akinade T, Heinsberg LW, Carlson JC, Flannery CA, McGarvey ST, Wood AN, Anesi S, Tofaeono V, Desobry K, Muasau-Howard BT, Bengtson AM, Kershaw EE, Hawley NL. Gestational Diabetes - Risk Factors and Outcomes among American Samoan Women (GROW): A Longitudinal Cohort Study Protocol. medRxiv [Preprint]. 2025 Oct 27:2025.10.24.25338761. doi: 10.1101/2025.10.24.25338761. PMID: 41282747; PMCID: PMC12636633.
+- Carson DJ, Faasalele-Savusa K, Loia M, Tasele S, Iosefa E, Tupuola P, Sanchez KC, Kaabi O, Valencia RK, Rossillo MG, Murthy N, Akinade T, Heinsberg LW, Carlson JC, Flannery CA, McGarvey ST, Wood AN, Anesi S, Tofaeono V, Desobry K, Muasau-Howard BT, Bengtson AM, Kershaw EE, Hawley NL. Gestational diabetes-Risk factors and Outcomes among American Samoan Women (GROW): A longitudinal cohort study protocol. PLoS One. 2026 Mar 2;21(3):e0342061. doi: 10.1371/journal.pone.0342061. PMID: 41770725; PMCID: PMC12952650.

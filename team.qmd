@@ -2,13 +2,13 @@
 
 # Lab members {.unnumbered}
 
--   Sophia Pollex: BSN/BPhil Student, Undergraduate Research Assistant (URMP)
--   Elizabeth Vicks: BSN Student, Undergraduate Research Assistant (URMP)
--   Andrew Wright: BSN Student, Undergraduate Research Assistant (URMP)
--   Gina Gehling, PhD, RN: Postdoc
+- Elizabeth Vicks: BSN Student, Undergraduate Research Assistant (URMP)
+- Andrew Wright: BSN Student, Undergraduate Research Assistant (URMP)
+- Gina Gehling, PhD, RN: Postdoc
 
 # Past lab members
 
--   Mercy Opateye, BSN, RN: Graduate Student Research Assistant
--   Kaylynn Bryan, BSN, RN: Undergraduate Research Assistant (URMP)
--   Kate Scanlan, BS: Post-bac, Research Assistant
+- Sophia Pollex: BSN/BPhil Student, Undergraduate Research Assistant (URMP)
+- Kaylynn Bryan, BSN, RN: Undergraduate Research Assistant (URMP)
+- Mercy Opateye, BSN, RN: Graduate Student Research Assistant
+- Kate Scanlan, BS: Post-bac, Research Assistant

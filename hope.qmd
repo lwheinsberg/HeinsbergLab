@@ -6,15 +6,15 @@
 
 ## Overview
 
-The HOPE Study is a planned longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study focuses on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.
+The HOPE Study is a longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study focuses on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.
 
 ## Planned genomic data
 
--   CREBRF rs373863828
--   Genome-wide DNA methylation data
--   Genome-wide RNA seq data
--   Microbiome data
--   PFAS data
+- CREBRF rs373863828
+- Genome-wide DNA methylation data
+- Genome-wide RNA seq data
+- Microbiome data
+- PFAS data
 
 ## Eligibility
 
@@ -38,9 +38,9 @@ Lacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna C
 
 ## Funding
 
--   [R00HD107030](https://reporter.nih.gov/search/s9cX7Mg6vEiIAQOGIvCqog/project-details/11119329)
--   Pitt Nursing
+- [R00HD107030](https://reporter.nih.gov/search/s9cX7Mg6vEiIAQOGIvCqog/project-details/11119329)
+- Pitt Nursing
 
 ## Selected publications
 
--   Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard BT. Study protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A mother-infant study in American Samoa. PLoS One. 2025 Sep 15;20(9):e0326644. doi: 10.1371/journal.pone.0326644. PMID: 40952996; PMCID: PMC12435730.
+- Heinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard BT. Study protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A mother-infant study in American Samoa. PLoS One. 2025 Sep 15;20(9):e0326644. doi: 10.1371/journal.pone.0326644. PMID: 40952996; PMCID: PMC12435730.

@@ -1,0 +1,42 @@
+![](growtogether.png){fig-align="center" width="300"}
+
+# The GROW Together Study {.unnumbered}
+
+## Overview
+
+The GROW Together Study is a longitudinal, observational study of mother-infant dyads in American Samoa, nested within the GROW Study (Gestational Diabetes - Risk factors and Outcomes among American Samoan Women; R01DK139672). GROW Together follows the infants born to GROW participants from birth through 18 months of age to understand how the severity and timing of maternal blood sugar levels during pregnancy shape infant growth, body composition, and metabolic health, and whether a genetic variant common in Pacific Islanders (CREBRF rs373863828) buffers these effects.
+
+## Planned genomic data
+
+- CREBRF rs373863828
+- Genome-wide DNA methylation data (umbilical cord blood)
+- Genome-wide RNA seq data (umbilical cord blood)
+
+## Eligibility
+
+The study includes infants born to mothers already enrolled in the GROW Study. GROW enrolls women who are at least 18 years old, of Samoan/Pacific Islander ethnicity, less than 14 weeks pregnant with a singleton pregnancy, receiving prenatal care at LBJ Hospital or a federally qualified health center in American Samoa, and intending to reside in American Samoa until at least 18 months postpartum. Infants are excluded if they are stillborn or have a previously undetected congenital anomaly or medical condition that would interfere with study assessments.
+
+## Study Dates
+
+2026 - present
+
+## Ethics
+
+This study is approved by the Institutional Review Boards at Yale University (single IRB of record for the University of Pittsburgh and Emory University) and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee.
+
+## Assessments
+
+Trained, bilingual Samoan research assistants conduct assessments at five time points: shortly after birth and at 6 weeks, 6 months, 12 months, and 18 months postpartum. Data collection includes infant body size (weight, length, circumferences, skinfold thicknesses), body composition measured by dual-energy X-ray absorptiometry (DXA), infant feeding and nutrition questionnaires, medical record review, and continuous glucose monitoring at 12 months. Biospecimens include umbilical cord blood collected at delivery and infant capillary (heel stick) blood at each visit, with saliva collected if a blood sample cannot be obtained.
+
+## Team
+
+Lacey Heinsberg (PI); Nicola Hawley, Angela Bengtson, Erin Kershaw, Bethel Muasau-Howard, Aiga Sesaga, Catherine Buck, Jenna Carlson, and Daniel Weeks (Co-Is); Rachel Duckham (Consultant); Kelly Sanchez (Research Coordinator)
+
+## Funding
+
+- R01HD120427 [pending]
+- Pitt Nursing
+
+## Selected publications
+
+- Carson DJ, Faasalele-Savusa K, Loia M, Tasele S, Iosefa E, Tupuola P, Sanchez KC, Kaabi O, Valencia RK, Rossillo MG, Murthy N, Akinade T, Heinsberg LW, Carlson JC, Flannery CA, McGarvey ST, Wood AN, Anesi S, Tofaeono V, Desobry K, Muasau-Howard BT, Bengtson AM, Kershaw EE, Hawley NL. Gestational diabetes-Risk factors and Outcomes among American Samoan Women (GROW): A longitudinal cohort study protocol. PLoS One. 2026 Mar 2;21(3):e0342061. doi: 10.1371/journal.pone.0342061. PMID: 41770725; PMCID: PMC12952650.

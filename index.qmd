@@ -6,7 +6,7 @@
 
 [Lacey W. Heinsberg, PhD, RN](https://www.nursing.pitt.edu/person/lacey-w-heinsberg)\
 Assistant Professor of Nursing and Human Genetics\
-Co-Director, Genetics of Patient Outcomes HUB\
+Co-Director, Genetics of Patient Outcomes Hub\
 Health Promotion and Development\
 University of Pittsburgh\
 440 Victoria Building\
@@ -19,11 +19,12 @@ Pronouns: she/her
 
 We use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:
 
--   [The Foafoaga o le Ola Study](./foafoaga.qmd): A mom-baby study in Samoa
--   [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa
--   [The GROW Study](./grow.qmd): A pregnancy/women's health study in American Samoa
--   [The EETR Study](./eetr.qmd): A study of traumatic brain injury (TBI) outcomes in children
--   [The aSAH Study](./sah.qmd): A study of aneurysmal subarachnoid hemorrhage (aSAH) outcomes in adults
+- [The Foafoaga o le Ola Study](./foafoaga.qmd): A mom-baby study in Samoa
+- [The HOPE Study](./hope.qmd): A mom-baby study in American Samoa
+- [The GROW Study](./grow.qmd): A pregnancy/women's health study in American Samoa
+- [The GROW Together Study](./growtogether.qmd): A mom-baby study in American Samoa
+- [The EETR Study](./eetr.qmd): A study of traumatic brain injury (TBI) outcomes in children
+- [The aSAH Study](./sah.qmd): A study of aneurysmal subarachnoid hemorrhage (aSAH) outcomes in adults
 
 Additional populations of interest include adults with TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.
 
