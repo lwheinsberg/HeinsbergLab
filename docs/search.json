@@ -1,92 +1,62 @@
 [
   {
-    "objectID": "hope.html",
-    "href": "hope.html",
-    "title": "The HOPE Study",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Heinsberg Lab",
     "section": "",
-    "text": "Overview\nHealth Outcomes in Pregnancy and Early Childhood\nThe HOPE Study is a longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study focuses on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.",
+    "text": "Lab information",
     "crumbs": [
-      "The HOPE Study"
+      "Lab information"
     ]
   },
   {
-    "objectID": "hope.html#planned-genomic-data",
-    "href": "hope.html#planned-genomic-data",
-    "title": "The HOPE Study",
-    "section": "Planned genomic data",
-    "text": "Planned genomic data\n\nCREBRF rs373863828\nGenome-wide DNA methylation data\nGenome-wide RNA seq data\nMicrobiome data\nPFAS data",
+    "objectID": "index.html#primary-investigator-pi",
+    "href": "index.html#primary-investigator-pi",
+    "title": "The Heinsberg Lab",
+    "section": "Primary Investigator (PI)",
+    "text": "Primary Investigator (PI)\nLacey W. Heinsberg, PhD, RN\nAssistant Professor of Nursing and Human Genetics\nCo-Director, Genetics of Patient Outcomes Hub\nHealth Promotion and Development\nUniversity of Pittsburgh\n440 Victoria Building\n3500 Victoria Street\nPittsburgh, PA 15261\n412-383-2581 | law145@pitt.edu\nPronouns: she/her",
     "crumbs": [
-      "The HOPE Study"
+      "Lab information"
     ]
   },
   {
-    "objectID": "hope.html#eligibility",
-    "href": "hope.html#eligibility",
-    "title": "The HOPE Study",
-    "section": "Eligibility",
-    "text": "Eligibility\nThe study includes mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.",
+    "objectID": "index.html#lab-purpose",
+    "href": "index.html#lab-purpose",
+    "title": "The Heinsberg Lab",
+    "section": "Lab purpose",
+    "text": "Lab purpose\nWe use genetic- and genomic-based research approaches to study a variety of complex diseases, with a specific focus on health promotion and development in pregnancy and early childhood. Some examples include:\n\nThe Foafoaga o le Ola Study: A mom-baby study in Samoa\nThe HOPE Study: A mom-baby study in American Samoa\nThe GROW Study: A pregnancy/women’s health study in American Samoa\nThe GROW Together Study: A mom-baby study in American Samoa\nThe EETR Study: A study of traumatic brain injury (TBI) outcomes in children\nThe aSAH Study: A study of aneurysmal subarachnoid hemorrhage (aSAH) outcomes in adults\n\nAdditional populations of interest include adults with TBI, obesity and other cardiovascular disease risk factors, gestational diabetes, and preeclampsia.",
     "crumbs": [
-      "The HOPE Study"
+      "Lab information"
     ]
   },
   {
-    "objectID": "hope.html#study-dates",
-    "href": "hope.html#study-dates",
-    "title": "The HOPE Study",
-    "section": "Study Dates",
-    "text": "Study Dates\n2025 - present",
+    "objectID": "index.html#affiliations",
+    "href": "index.html#affiliations",
+    "title": "The Heinsberg Lab",
+    "section": "Affiliations",
+    "text": "Affiliations\nObesity, Lifestyle, and Genetics Adaptations (OLaGa, “life” in Samoan) Study Group",
     "crumbs": [
-      "The HOPE Study"
+      "Lab information"
     ]
   },
   {
-    "objectID": "hope.html#ethics",
-    "href": "hope.html#ethics",
-    "title": "The HOPE Study",
-    "section": "Ethics",
-    "text": "Ethics\nThis study is approved by the Institutional Review Boards at the University of Pittsburgh, Yale University, and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee.",
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "The Heinsberg Lab",
+    "section": "Copyright",
+    "text": "Copyright\nCopyright information:\nCopyright 2024, Lacey Heinsberg. All Rights Reserved. License: GPL-2",
     "crumbs": [
-      "The HOPE Study"
+      "Lab information"
     ]
   },
   {
-    "objectID": "hope.html#assessments",
-    "href": "hope.html#assessments",
-    "title": "The HOPE Study",
-    "section": "Assessments",
-    "text": "Assessments\nTrained, bilingual Samoan research assistants conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection includes sleep, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood are collected.",
+    "objectID": "index.html#acknolwedgements",
+    "href": "index.html#acknolwedgements",
+    "title": "The Heinsberg Lab",
+    "section": "Acknolwedgements",
+    "text": "Acknolwedgements\nThis Quarto page was created using markdown and executable code in RStudio. The laboratory logo was designed with DALL-E.",
     "crumbs": [
-      "The HOPE Study"
-    ]
-  },
-  {
-    "objectID": "hope.html#team",
-    "href": "hope.html#team",
-    "title": "The HOPE Study",
-    "section": "Team",
-    "text": "Team\nLacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna Carlson, Yvette Conley, and Erin Kershaw (Co-Is); Miracle Loia (Project Coordinator)",
-    "crumbs": [
-      "The HOPE Study"
-    ]
-  },
-  {
-    "objectID": "hope.html#funding",
-    "href": "hope.html#funding",
-    "title": "The HOPE Study",
-    "section": "Funding",
-    "text": "Funding\n\nR00HD107030\nPitt Nursing",
-    "crumbs": [
-      "The HOPE Study"
-    ]
-  },
-  {
-    "objectID": "hope.html#selected-publications",
-    "href": "hope.html#selected-publications",
-    "title": "The HOPE Study",
-    "section": "Selected publications",
-    "text": "Selected publications\n\nHeinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard BT. Study protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A mother-infant study in American Samoa. PLoS One. 2025 Sep 15;20(9):e0326644. doi: 10.1371/journal.pone.0326644. PMID: 40952996; PMCID: PMC12435730.",
-    "crumbs": [
-      "The HOPE Study"
+      "Lab information"
     ]
   },
   {
@@ -307,6 +277,96 @@
     "text": "Selected publications\n\nArslanian KJ, Fidow UT, Atanoa T, Unasa-Apelu F, Naseri T, Wetzel AI, Pomer A, Duckham RL, McGarvey ST, Strayer JA, Kershaw EE, Weeks DE, Hawley NL. A missense variant in CREBRF, rs373863828, is associated with fat-free mass, not fat mass in Samoan infants. Int J Obes (Lond). 2021 Jan;45(1):45-55. doi: 10.1038/s41366-020-00659-4. Epub 2020 Sep 3. PMID: 32884101; PMCID: PMC8329753.\nHeinsberg LW, Niu S, Arslanian KJ, Chen R, Bedi M, Unasa-Apelu F, Fidow UT, Soti-Ulberg C, Conley YP, Weeks DE, Ng CA, Hawley NL. Characterization of per- and polyfluoroalkyl substances (PFAS) concentrations in a community-based sample of infants from Samoa. Chemosphere. 2024 Apr;353:141527. doi: 10.1016/j.chemosphere.2024.141527. Epub 2024 Feb 22. PMID: 38401869; PMCID: PMC10997188.",
     "crumbs": [
       "The Foafoaga o le Ola Study"
+    ]
+  },
+  {
+    "objectID": "hope.html",
+    "href": "hope.html",
+    "title": "The HOPE Study",
+    "section": "",
+    "text": "Overview\nHealth Outcomes in Pregnancy and Early Childhood\nThe HOPE Study is a longitudinal, observational study of mother-infant dyads, aiming to understand how genetics, environment, and behavior will impact the health of women during and after pregnancy, as well as the health of children in American Samoa. The study focuses on gestational diabetes (a type of diabetes that develops during pregnancy) and its influence on child body size and growth.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#planned-genomic-data",
+    "href": "hope.html#planned-genomic-data",
+    "title": "The HOPE Study",
+    "section": "Planned genomic data",
+    "text": "Planned genomic data\n\nCREBRF rs373863828\nGenome-wide DNA methylation data\nGenome-wide RNA seq data\nMicrobiome data\nPFAS data",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#eligibility",
+    "href": "hope.html#eligibility",
+    "title": "The HOPE Study",
+    "section": "Eligibility",
+    "text": "Eligibility\nThe study includes mothers who are over 18 years old, at least 35 weeks pregnant, planning to give birth at LBJ Hospital in American Samoa, and intending to reside in American Samoa for at least 6 months post-birth.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#study-dates",
+    "href": "hope.html#study-dates",
+    "title": "The HOPE Study",
+    "section": "Study Dates",
+    "text": "Study Dates\n2025 - present",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#ethics",
+    "href": "hope.html#ethics",
+    "title": "The HOPE Study",
+    "section": "Ethics",
+    "text": "Ethics\nThis study is approved by the Institutional Review Boards at the University of Pittsburgh, Yale University, and the American Samoa Department of Health, as well as the Lyndon B. Johnson Tropical Medical Center (American Samoa) Research Oversight Committee.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#assessments",
+    "href": "hope.html#assessments",
+    "title": "The HOPE Study",
+    "section": "Assessments",
+    "text": "Assessments\nTrained, bilingual Samoan research assistants conduct assessments at various time points: before birth, immediately post-birth, and at 2, 4, and 6 months post-birth. Data collection includes sleep, nutrition, behavior, environment, social determinants of health, and physical growth measurements. Biospecimens such as saliva, stool, umbilical cord blood, and capillary blood are collected.",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#team",
+    "href": "hope.html#team",
+    "title": "The HOPE Study",
+    "section": "Team",
+    "text": "Team\nLacey Heinsberg (PI); Nicola Hawley, Bethel Muasau-Howard, Daniel Weeks, Jenna Carlson, Yvette Conley, and Erin Kershaw (Co-Is); Miracle Loia (Project Coordinator)",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#funding",
+    "href": "hope.html#funding",
+    "title": "The HOPE Study",
+    "section": "Funding",
+    "text": "Funding\n\nR00HD107030\nPitt Nursing",
+    "crumbs": [
+      "The HOPE Study"
+    ]
+  },
+  {
+    "objectID": "hope.html#selected-publications",
+    "href": "hope.html#selected-publications",
+    "title": "The HOPE Study",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nHeinsberg LW, Loia M, Tasele S, Faasalele-Savusa K, Carlson JC, Anesi S, Desobry K, Yuchongco E, Guevara BF, Sesaga A, Iloilo A, Tofaeono V, Bryan K, Tauasosi-Posiulai T, Kershaw EE, Conley YP, Weeks DE, Hawley NL, Muasau-Howard BT. Study protocol for the Health Outcomes in Pregnancy and Early Childhood (HOPE) Study: A mother-infant study in American Samoa. PLoS One. 2025 Sep 15;20(9):e0326644. doi: 10.1371/journal.pone.0326644. PMID: 40952996; PMCID: PMC12435730.",
+    "crumbs": [
+      "The HOPE Study"
     ]
   },
   {
