@@ -72,7 +72,7 @@ Sharing is essential to our collective growth. Whether it's writing, methods, or
 
 ### Generative artificial intelligence (AI)
 
-I use ChatGPT and other generative AI tools daily, and I'm OK with you using it too. However, I have a few expectations about how it should be used:
+I use generative AI tools daily, and I'm OK with you using it too. However, I have a few expectations about how it should be used:
 
 -   **Become AI literate:** Take training courses, particularly on ethical use. Develop your own code of conduct outlining when and how you'll use AI tools.
 -   **Don't become overly reliant:** Use it sparingly. Don't let it make you lazy---relying too much on AI can be a slippery slope.
@@ -80,6 +80,9 @@ I use ChatGPT and other generative AI tools daily, and I'm OK with you using it 
 -   **Respect privacy:** Never input other people's writing or personal information into AI tools.
 -   **Maintain objectivity:** Remember, you are the human in the loop. Generative AI is often wrong---don't trust it blindly. Always investigate and fact-check.
 -   **Disclose its use:** Be transparent about when you've used AI---share what tools you used, for what purpose, and when.
+-   **Use Pitt-approved, closed tools only:** Please ONLY use University-approved tools that offer us closed / protected access. Do not use ChatGPT or other tools for any unviersity-related work in this lab. 
+
+See also [PromptLab](https://github.com/SharptonLab/PromptLab).
 
 ### Self-enrichment
 
